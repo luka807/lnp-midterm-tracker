@@ -1,0 +1,485 @@
+<title>LNP Slate Midterm Pre-post-op</title>
+<style>
+/* Leadership Now brand: navy + gold anchors, off-white ground, squared corners, uppercase headlines with gold rules.
+   Layout: navy masthead band → national strip → trends → race board → navy footer band. Light theme by design. */
+:root{
+ --navy:#1E3A65; --gold:#FFB638; --ink:#212121; --off:#F5F5F5; --white:#FFFFFF; --muted:#595A55; --cream:#FDEFD2; --warm:#B0B1AC;
+ --line:#DCDDD8; --grid:#E6E7E2; --soft:#EEF1F5;
+ --dem:#2E6DB4; --rep:#B8402B; --ind:#7A5A12; --tossup:#7A5F00;
+ --good:#1F6B45; --bad:#A63A2A;
+ --s1:#1E3A65; --s2:#8C8D87; --surface:#FFFFFF; --bg:#F5F5F5; --accent:#1E3A65;
+ --f:'Neue Haas Grotesk','Söhne','Helvetica Neue',Helvetica,Arial,sans-serif;
+ color-scheme:light}
+*{box-sizing:border-box;border-radius:0!important}
+body{background:var(--off);color:var(--ink);font-family:var(--f);font-size:15px;line-height:1.5}
+a{color:var(--navy)}
+.masthead{background:var(--navy);color:var(--white);padding-inline:24px;padding-block:40px 32px}
+.masthead .inner,.wrap,.foot .inner{max-width:1290px;margin:0 auto}
+.masthead .eyebrow{font-style:italic;font-size:14px;color:var(--cream)}
+.masthead h1{font-weight:700;text-transform:uppercase;letter-spacing:-.01em;font-size:clamp(28px,4.2vw,48px);line-height:1.05;margin:8px 0 0;text-wrap:balance}
+.masthead h1::after{content:"";display:block;width:4rem;height:2px;background:var(--gold);margin-top:16px}
+.masthead p{margin:16px 0 0;max-width:72ch;color:#DCE3EE}
+.masthead .status{margin-top:16px;color:#C9D3E2}
+.wrap{padding-inline:24px;padding-block:40px 56px;display:grid;gap:40px}
+.eyebrow{font-style:italic;font-size:13px;color:var(--muted)}
+h2{font-weight:700;text-transform:uppercase;letter-spacing:-.005em;font-size:clamp(20px,2.4vw,28px);color:var(--navy);margin:2px 0 0;text-wrap:balance}
+h2::after{content:"";display:block;width:4rem;height:2px;background:var(--gold);margin-top:10px}
+.sechead{display:flex;flex-wrap:wrap;gap:16px 24px;align-items:flex-end;justify-content:space-between}
+.sechead p{margin:0;color:var(--muted);font-size:14px;max-width:70ch}
+.strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px}
+.ind{background:var(--white);border:1px solid var(--line);padding:16px;display:grid;gap:4px;align-content:start;min-width:0}
+.ind .lab{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.ind .big{font-weight:700;font-size:30px;line-height:1.1;color:var(--navy);font-variant-numeric:tabular-nums}
+.ind .sub{color:var(--muted);font-size:12.5px}
+.ind.lead-tile{background:var(--navy);border-color:var(--navy)}
+.ind.lead-tile .lab,.ind.lead-tile .sub{color:#C9D3E2}.ind.lead-tile .big{color:var(--white)}
+.big.d{color:var(--navy)}
+.cook{display:flex;height:10px;overflow:hidden;margin-top:8px;gap:2px}
+.cook span{display:block;height:100%}
+.cookleg{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+details.nat{background:var(--white);border:1px solid var(--line);padding:16px}
+details.nat summary{cursor:pointer;font-weight:700;text-transform:uppercase;letter-spacing:.06em;font-size:12px;color:var(--navy)}
+.natgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px;margin-top:16px}
+.natgrid h3{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+.natgrid table{width:100%;border-collapse:collapse;font-size:13px}
+.natgrid td{padding:4px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.natgrid td:last-child{text-align:right;color:var(--muted);font-size:12px;padding-left:8px}
+.notes{color:var(--muted);font-size:12.5px;margin:16px 0 0;padding-left:18px}
+.board{display:grid;gap:16px}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.tabs{display:flex;border:1px solid var(--navy);background:var(--white)}
+.tabs button{border:0;background:none;padding:10px 16px;font:inherit;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--navy);cursor:pointer}
+.tabs button[aria-pressed="true"]{background:var(--navy);color:var(--white)}
+.controls select,.controls input[type=search]{font:inherit;font-size:14px;padding:9px 12px;border:1px solid var(--warm);background:var(--white);color:var(--ink)}
+.controls label.small{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.count{margin-left:auto;color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+button:focus-visible,select:focus-visible,input:focus-visible,tr:focus-visible,.mv:focus-visible,rect:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.tablewrap{overflow-x:auto;background:var(--white);border:1px solid var(--line)}
+table.races{width:100%;border-collapse:collapse;min-width:960px}
+.races th{text-align:left;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--white);background:var(--navy);font-weight:700;padding:12px;white-space:nowrap;cursor:pointer;user-select:none}
+.races th[data-sort]::after{content:" ↕";opacity:.55}
+.races td{padding:12px;border-bottom:1px solid var(--line);vertical-align:top}
+.races tr.row{cursor:pointer}
+.races tr.row:hover td{background:var(--soft)}
+.cand{font-weight:700;color:var(--ink)}
+.pty{display:inline-block;font-size:11px;font-weight:700;padding:0 5px;margin-left:6px;border:1px solid currentColor}
+.pty.D{color:var(--dem)}.pty.R{color:var(--rep)}.pty.I{color:var(--ind)}
+.race{font-size:13px;font-weight:700;white-space:nowrap;font-variant-numeric:tabular-nums}
+.small{font-size:12.5px;color:var(--muted)}
+.chip{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:3px 7px;white-space:nowrap;border:1px solid transparent}
+.chip.sd{color:var(--dem);border-color:var(--dem)}
+.chip.ld{color:var(--dem);background:color-mix(in srgb,var(--dem) 10%,white)}
+.chip.tu{color:var(--ink);background:var(--cream);border-color:var(--gold)}
+.chip.lr{color:var(--rep);background:color-mix(in srgb,var(--rep) 10%,white)}
+.chip.sr{color:var(--rep);border-color:var(--rep)}
+.chip.na{color:var(--muted);border-color:var(--line)}
+.mkt{display:grid;grid-template-columns:38px 1fr;gap:8px;align-items:center;min-width:120px}
+.mkt b{font-variant-numeric:tabular-nums;font-weight:700;text-align:right}
+.bar{height:6px;background:var(--grid);position:relative;overflow:hidden}
+.bar i{position:absolute;inset:0 auto 0 0}
+.bar::after{content:"";position:absolute;left:50%;top:-2px;bottom:-2px;width:1px;background:var(--muted);opacity:.6}
+tr.detail td{background:var(--off);font-size:13px;border-bottom:2px solid var(--navy)}
+.dl{display:grid;grid-template-columns:140px 1fr;gap:4px 16px;max-width:110ch}
+.dl dt{color:var(--muted)}.dl dd{margin:0}
+.foot{background:var(--navy);color:#DCE3EE;padding-inline:24px;padding-block:32px 40px;font-size:13px}
+.foot .inner{display:grid;gap:10px;max-width:1290px}
+.foot .inner > div{max-width:110ch}
+.foot b{color:var(--white);text-transform:uppercase;letter-spacing:.06em;font-size:12px}
+.foot a{color:var(--white)}
+.foot .rule{width:4rem;height:2px;background:var(--gold);margin-bottom:6px}
+.status{display:flex;gap:10px;align-items:center;font-size:12.5px}
+.dot{width:8px;height:8px;border-radius:50%!important;background:var(--warm)}
+.dot.live{background:var(--gold)}
+.empty{padding:32px 16px;text-align:center;color:var(--muted)}
+.delta{font-size:12px;font-weight:700;margin-left:4px;font-variant-numeric:tabular-nums}
+.delta.up{color:var(--good)}.delta.down{color:var(--bad)}
+.res{font-weight:700;font-size:12.5px;white-space:nowrap;text-transform:uppercase;letter-spacing:.04em}
+.res.won{color:var(--good)}.res.lost{color:var(--bad)}.res.pend{color:var(--muted);font-weight:400;text-transform:none}
+.hist{display:grid;gap:16px 24px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.hist h4{margin:0 0 6px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--navy)}
+.hist ul{margin:0;padding-left:16px}
+.hist li{margin:3px 0}
+.trends{display:grid;gap:16px}
+.charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;align-items:start}
+.card{background:var(--white);border:1px solid var(--line);padding:16px;display:grid;gap:8px;min-width:0}
+.card h3{margin:0;font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--navy)}
+.card .sub{color:var(--muted);font-size:12px}
+.card.secondary h3{color:var(--muted)}
+.chart{position:relative;min-width:0}
+.chart svg{display:block;width:100%;height:auto;overflow:visible}
+.chart text{fill:var(--muted);font-family:var(--f);font-size:10px}
+.legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{display:inline-block;width:14px;height:2px}
+.legend i.dot{width:8px;height:8px}
+.legend i.ring{width:8px;height:8px;background:transparent!important;border:1.5px solid var(--muted);border-radius:50%!important}
+.tip{position:absolute;pointer-events:none;background:var(--white);border:1px solid var(--navy);padding:6px 8px;font-size:12px;box-shadow:0 4px 14px rgba(30,58,101,.15);white-space:nowrap;z-index:5}
+.tip b{font-weight:700;font-variant-numeric:tabular-nums}
+.tip .k{display:inline-block;width:10px;height:2px;margin-right:5px;vertical-align:middle}
+.movers{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+.mv{display:grid;grid-template-columns:minmax(0,1fr) 84px 64px;gap:4px 12px;align-items:center;padding:8px 0;border-bottom:1px solid var(--line);cursor:pointer}
+.mv:last-child{border-bottom:0}
+.mv:hover .nm{text-decoration:underline}
+.mv .nm{font-weight:700;font-size:13.5px}
+.mv .rc{font-size:12px;color:var(--muted)}
+.mv .chg{font-size:13px;font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+.mv .chg small{display:block;color:var(--muted);font-size:11px;font-weight:400}
+.up{color:var(--good)}.down{color:var(--bad)}
+.mv .chg.even{color:var(--muted)}
+.cellspark{display:block}
+.poll{display:grid;gap:2px;min-width:170px}
+.poll .lead{font-weight:700;font-size:15px;font-variant-numeric:tabular-nums}
+.poll .lead.pos{color:var(--good)}.poll .lead.neg{color:var(--bad)}.poll .lead.even{color:var(--ink)}
+.poll .meta{font-size:12px;color:var(--muted)}
+.mkt.quiet b{color:var(--muted);font-size:12.5px;font-weight:400}
+.mkt.quiet .bar{height:4px}
+.mktcell{display:grid;gap:3px;min-width:120px}
+.racecharts{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;grid-column:1/-1;align-items:start}
+@media (max-width:640px){.dl{grid-template-columns:1fr}.count{margin-left:0;width:100%}.masthead{padding-block:28px 24px}.wrap{padding-inline:16px}.masthead,.foot{padding-inline:16px}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+<header class="masthead"><div class="inner">
+ <div class="eyebrow">Leadership Now Project · 2026 Midterms</div>
+ <h1>Slate polling and markets</h1>
+ <p>Every Leadership Now slate candidate on the November ballot for House, Senate and governor, with the matchup, polling average and trend, forecaster ratings, prediction-market odds and cash on hand. Click a row for its polling and market history.</p>
+ <div class="status" id="status"><span class="dot"></span><span>Loading tracker data…</span></div>
+</div></header>
+<div class="wrap">
+<section aria-label="National environment"><div class="sechead" style="margin-bottom:16px"><div><div class="eyebrow">National environment</div><h2>Where the midterms stand</h2></div></div><div class="strip" id="strip"><div class="ind"><span class="lab">National environment</span><span class="sub">Loading the latest snapshot…</span></div></div></section>
+<section class="trends" id="trends">
+ <div class="sechead"><div><div class="eyebrow">Trends</div><h2>How the polls have moved</h2></div>
+  <div class="controls"><label class="small" for="f-win">Change over</label>
+   <select id="f-win"><option value="7">Last 7 days</option><option value="30" selected>Last 30 days</option><option value="since">Since Aug 1</option></select></div>
+  <p>Polls lead: each race shows its polling average first, with prediction markets as a secondary signal. Poll charts plot each poll at its field end date with a trailing average; hollow dots are partisan or campaign polls.</p></div>
+ <div class="charts" id="natcharts"><div class="card"><span class="sub">Loading national trends…</span></div></div>
+ <div class="charts movers" id="movers"></div>
+</section>
+<details class="nat" id="nat"><summary>National environment detail</summary><div class="natgrid" id="natgrid"></div><ul class="notes" id="natnotes"></ul></details>
+<section class="board">
+ <div class="sechead"><div><div class="eyebrow">Races</div><h2>The slate, race by race</h2></div></div>
+ <div class="controls">
+  <div class="tabs" role="group" aria-label="Office">
+   <button id="t-House" data-o="House" aria-pressed="true">House</button>
+   <button id="t-Senate" data-o="Senate" aria-pressed="false">Senate</button>
+   <button id="t-Governor" data-o="Governor" aria-pressed="false">Governor</button>
+  </div>
+  <select id="f-band" aria-label="Filter by competitiveness">
+   <option value="all">All races</option>
+   <option value="comp">Competitive (poll average within 5 pts)</option>
+   <option value="tu">Rated Toss Up by Cook</option>
+   <option value="chal">Challengers & open seats</option>
+   <option value="slate">Slate only</option>
+   <option value="tracked">Tracked races (not on slate)</option>
+  </select>
+  <select id="f-tier" aria-label="Filter by list" hidden><option value="all">All lists</option><option value="short">Short list</option><option value="long">Long list</option></select>
+  <input type="search" id="f-q" placeholder="Search name, state, district" aria-label="Search">
+  <span class="count" id="count"></span>
+ </div>
+ <div class="tablewrap"><table class="races"><thead><tr>
+  <th data-sort="name">Candidate</th><th data-sort="race">Race</th><th>Opponent</th><th data-sort="poll">Polling average</th><th data-sort="pchg" id="chghead">Poll shift, 30 days</th><th data-sort="cook">Cook</th><th>Sabato</th><th>Inside Elec.</th><th data-sort="mkt">Market odds</th><th class="rescol" hidden>Result</th>
+ </tr></thead><tbody id="tb"></tbody></table></div>
+</section>
+</div>
+<footer class="foot"><div class="inner"><div class="rule"></div>
+ <div><b>How to read this.</b> Polling average is the candidate's margin over the main opponent, averaged across polls that finished in the last 30 days (or the latest poll when none are that recent); partisan and campaign polls are included and counted. Poll shift is the change in the 21-day trailing average over the chosen window. Market odds are the candidate's latest daily price on Polymarket or Kalshi; most House district markets trade thinly, so treat them as a secondary signal. "n/a" means the forecaster does not rate the race or no figure was found.</div>
+ <div><b>Sources.</b> Ratings: <a href="https://www.cookpolitical.com/ratings/house-race-ratings">Cook Political Report</a>, Sabato's Crystal Ball and Inside Elections (via <a href="https://www.270towin.com/2026-house-election-predictions/">270toWin</a>). Markets: <a href="https://polymarket.com/">Polymarket</a>, <a href="https://kalshi.com/">Kalshi</a>. National averages: <a href="https://www.natesilver.net/">Silver Bulletin</a>, <a href="https://fiftyplusone.news/polls/generic-ballot">FiftyPlusOne</a>, <a href="https://votes.decisiondeskhq.com/forecast/2026">DDHQ</a>. Poll and cash figures are from state election pages, FEC filings and news reports; the companion spreadsheet lists them per race.</div>
+ <div>Races marked Tracked are followed for context but are not on the Leadership Now slate, and are left out of the slate's won–lost record. New polls, market prices, ratings and results are added as dated observations, so each race keeps its full history.</div>
+</div></footer>
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const RATING = {"Solid D":0,"Safe D":0,"Likely D":1,"Lean D":2,"Tilt D":2.5,"Toss Up":3,"Toss-up":3,"Tilt R":3.5,"Lean R":4,"Likely R":5,"Solid R":6,"Safe R":6};
+const rkey = v => Object.keys(RATING).find(k => (v||"").startsWith(k));
+const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const fmtDate = d => { if(!d) return ""; const [y,m,dd]=d.split("-").map(Number); return `${MON[m-1]} ${dd}`; };
+const dnum = d => Date.UTC(+d.slice(0,4), +d.slice(5,7)-1, +d.slice(8,10)) / 864e5;   // days since epoch
+const dstr = n => new Date(n*864e5).toISOString().slice(0,10);
+const byObs = (a,b) => (a.observed||"").localeCompare(b.observed||"");
+const pollDate = p => p.date || p.end_date || p.release_date || null;
+const margin = p => (typeof p.cand_pct==="number" && typeof p.opp_pct==="number") ? Math.round((p.cand_pct-p.opp_pct)*10)/10 : null;
+const sgn = v => v==null ? "—" : (v>0?"+":v<0?"−":"±") + Math.abs(Math.round(v*10)/10);
+const START = "2026-08-01";
+let ENTRIES = [], NAT = null, INFO = null;
+let office="House", sortKey="poll", sortDir=1, open=new Set();
+
+function chip(v){
+  if(!v) return '<span class="small">—</span>';
+  const k = rkey(v); if(!k) return `<span class="chip na">${esc(v)}</span>`;
+  const o = RATING[k]; const cls = o===0?"sd":o<3?"ld":o===3?"tu":o<6?"lr":"sr";
+  return `<span class="chip ${cls}" title="${esc(v)}">${esc(k==="Toss-up"?"Toss Up":k)}</span>`;
+}
+
+/* ---------- series helpers ---------- */
+function platSeries(e, plat){ return (e.markets||[]).filter(m=>m.platform===plat && m.pct!=null).sort(byObs).map(m=>({x:m.observed,y:m.pct})); }
+function mainSeries(e){   // Polymarket by day, Kalshi where Polymarket has no price
+  const map = {}; (e.markets||[]).filter(m=>m.pct!=null).sort((a,b)=>(a.platform==="Polymarket")-(b.platform==="Polymarket")).forEach(m=>map[m.observed]=m.pct);
+  return Object.keys(map).sort().map(x=>({x,y:map[x]}));
+}
+function winStart(lastDate){
+  const w = $("#f-win").value;
+  return w==="since" ? START : dstr(dnum(lastDate) - Number(w));
+}
+function valueAt(series, date){ let v=null; for(const p of series){ if(p.x<=date) v=p.y; else break; } return v; }
+function change(series){
+  if(series.length<2) return null;
+  const last = series[series.length-1], base = valueAt(series, winStart(last.x));
+  return base==null ? null : {from:base, to:last.y, d: Math.round((last.y-base)*10)/10};
+}
+function rolling(points, days=14){   // trailing average of poll margins, evaluated at each poll date
+  const pts = points.slice().sort((a,b)=>a.x.localeCompare(b.x));
+  const xs = [...new Set(pts.map(p=>p.x))];
+  return xs.map(x=>{ const n=dnum(x); const w=pts.filter(p=>dnum(p.x)<=n && dnum(p.x)>n-days); return {x, y: Math.round(w.reduce((s,p)=>s+p.y,0)/w.length*10)/10}; });
+}
+function derive(e){
+  const ratings = {}; [...(e.ratings||[])].sort(byObs).forEach(r => ratings[r.source] = r);
+  const ser = mainSeries(e);
+  const lastPlat = (() => { const ms=(e.markets||[]).filter(m=>m.pct!=null).sort(byObs); if(!ms.length) return null; const last=ms[ms.length-1].observed; return ms.filter(m=>m.observed===last).find(m=>m.platform==="Polymarket")||ms.filter(m=>m.observed===last)[0]; })();
+  const polls = [...(e.polls||[])].sort((a,b)=>(pollDate(a)||"").localeCompare(pollDate(b)||""));
+  const fin = [...(e.finance||[])].sort(byObs);
+  const pp = polls.filter(p=>margin(p)!=null && pollDate(p)).map(p=>({x:pollDate(p),y:margin(p),p}));
+  return {...e, _r: ratings, _ser: ser, _m: lastPlat, _poll: polls[polls.length-1], _polls: polls, _fin: fin[fin.length-1], _pp: pp, _pser: rolling(pp, 21), _ps: pollStats(pp)};
+}
+const TODAY = new Date().toISOString().slice(0,10);
+function pollStats(pp){   // average of polls ending in the last 30 days; falls back to the latest poll
+  if(!pp.length) return null;
+  const cut = dstr(dnum(TODAY)-30), rec = pp.filter(q=>q.x>=cut), use = rec.length ? rec : [pp[pp.length-1]];
+  const avg = Math.round(use.reduce((s,q)=>s+q.y,0)/use.length*10)/10;
+  return {avg, n: rec.length, partisan: rec.filter(q=>q.p.sponsor_lean).length, stale: !rec.length, latest: pp[pp.length-1]};
+}
+const onBallot = r => r.ballot==="On ballot";
+const isSlate = r => !/^Tracked/.test(r.slate_status||"");
+const resultsMode = () => ENTRIES.some(e => e.result && e.result.status && e.result.status!=="pending");
+
+/* ---------- line chart (SVG, crosshair tooltip) ---------- */
+// opts: {lines:[{name,color,points:[{x,y}]}], dots:[{x,y,hollow,label}], dotColor, yMin, yMax, ref, yFmt, height}
+function lineChart(el, opts){
+  const W = Math.max(260, el.clientWidth || 300), H = opts.height || 170, L=34, R=10, T=8, B=20;
+  const all = [...opts.lines.flatMap(l=>l.points), ...(opts.dots||[])];
+  if(!all.length){ el.innerHTML = '<p class="small">No data yet.</p>'; return; }
+  const xs = all.map(p=>dnum(p.x)); let x0 = Math.min(...xs), x1 = Math.max(...xs); if(x1===x0){ x0-=1; x1+=1; }
+  let yMin = opts.yMin, yMax = opts.yMax;
+  if(yMin==null || yMax==null){ const ys=all.map(p=>p.y).concat(opts.ref!=null?[opts.ref]:[]); const lo=Math.min(...ys), hi=Math.max(...ys); const pad=Math.max(2,(hi-lo)*0.15); yMin=Math.floor((lo-pad)/2)*2; yMax=Math.ceil((hi+pad)/2)*2; }
+  const X = d => L + (dnum(d)-x0)/(x1-x0)*(W-L-R), Y = v => T + (1-(v-yMin)/(yMax-yMin))*(H-T-B);
+  const step = (()=>{ const r=yMax-yMin; return r<=12?2:r<=30?5:r<=60?10:25; })();
+  let g = "";
+  for(let v=Math.ceil(yMin/step)*step; v<=yMax; v+=step){ g += `<line x1="${L}" x2="${W-R}" y1="${Y(v)}" y2="${Y(v)}" stroke="var(--grid)" stroke-width="1"/><text x="${L-6}" y="${Y(v)+3}" text-anchor="end">${esc((opts.yFmt||(v=>v))(v))}</text>`; }
+  if(opts.ref!=null && opts.ref>yMin && opts.ref<yMax) g += `<line x1="${L}" x2="${W-R}" y1="${Y(opts.ref)}" y2="${Y(opts.ref)}" stroke="var(--muted)" stroke-width="1" opacity=".55"/>`;
+  // x ticks: month starts within range
+  const xt = []; { let d = new Date(x0*864e5); if(d.getUTCDate()!==1){ d.setUTCDate(1); d.setUTCMonth(d.getUTCMonth()+1); } while(d.getTime()/864e5 <= x1){ xt.push(d.toISOString().slice(0,10)); d.setUTCMonth(d.getUTCMonth()+1); } }
+  xt.forEach(d => g += `<text x="${X(d)}" y="${H-4}" text-anchor="middle">${MON[+d.slice(5,7)-1]} 1</text>`);
+  const dc = opts.dotColor || "var(--ink)";
+  (opts.dots||[]).forEach(p => g += `<circle cx="${X(p.x)}" cy="${Y(p.y)}" r="4" fill="${p.hollow?"var(--surface)":dc}" stroke="${p.hollow?dc:"var(--surface)"}" stroke-width="${p.hollow?1.5:2}" opacity="${p.hollow?.8:.75}"/>`);
+  opts.lines.forEach(l => { if(l.points.length<1) return;
+    if(l.points.length>1) g += `<polyline fill="none" stroke="${l.color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" points="${l.points.map(p=>`${X(p.x).toFixed(1)},${Y(p.y).toFixed(1)}`).join(" ")}"/>`;
+    const e = l.points[l.points.length-1]; g += `<circle cx="${X(e.x)}" cy="${Y(e.y)}" r="4" fill="${l.color}" stroke="var(--surface)" stroke-width="2"/>`; });
+  el.innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.label||"Trend chart")}">${g}<line class="xh" x1="0" x2="0" y1="${T}" y2="${H-B}" stroke="var(--muted)" stroke-width="1" opacity="0"/><rect x="${L}" y="${T}" width="${W-L-R}" height="${H-T-B}" fill="transparent" tabindex="0"/></svg><div class="tip" hidden></div>`;
+  const svg = el.querySelector("svg"), rect = svg.querySelector("rect"), xh = svg.querySelector(".xh"), tip = el.querySelector(".tip");
+  const days = [...new Set(all.map(p=>p.x))].sort();
+  function show(day){
+    const px = X(day); xh.setAttribute("x1",px); xh.setAttribute("x2",px); xh.setAttribute("opacity",".6");
+    tip.replaceChildren();
+    const h = document.createElement("div"); h.className="small"; h.textContent = fmtDate(day); tip.appendChild(h);
+    opts.lines.forEach(l => { const v = valueAt(l.points, day); if(v==null) return;
+      const r=document.createElement("div"); const k=document.createElement("span"); k.className="k"; k.style.background=l.color; const b=document.createElement("b"); b.textContent=(opts.yFmt||(x=>x))(v); r.append(k,b," ",l.name); tip.appendChild(r); });
+    (opts.dots||[]).filter(p=>p.x===day).forEach(p => { const r=document.createElement("div"); const b=document.createElement("b"); b.textContent=(opts.yFmt||(x=>x))(p.y); r.append(b," ",p.label||""); tip.appendChild(r); });
+    tip.hidden=false; const sx = svg.getBoundingClientRect().width / W; let left = px*sx + 10; if(left + tip.offsetWidth > el.clientWidth) left = px*sx - tip.offsetWidth - 10; tip.style.left = Math.max(0,left)+"px"; tip.style.top = "4px";
+  }
+  function nearest(clientX){ const r = svg.getBoundingClientRect(); const x = (clientX - r.left) / r.width * W; const n = x0 + (x-L)/(W-L-R)*(x1-x0); let best=days[0]; for(const d of days) if(Math.abs(dnum(d)-n) < Math.abs(dnum(best)-n)) best=d; return best; }
+  rect.addEventListener("pointermove", e => show(nearest(e.clientX)));
+  rect.addEventListener("pointerleave", () => { tip.hidden=true; xh.setAttribute("opacity","0"); });
+  let ki = days.length-1; rect.addEventListener("focus", () => show(days[ki]));
+  rect.addEventListener("keydown", e => { if(e.key==="ArrowLeft"){ki=Math.max(0,ki-1);show(days[ki]);} if(e.key==="ArrowRight"){ki=Math.min(days.length-1,ki+1);show(days[ki]);} });
+  rect.addEventListener("blur", () => { tip.hidden=true; xh.setAttribute("opacity","0"); });
+}
+function sparkSVG(series, color, w=72, h=20){
+  if(series.length<2) return "";
+  const ys=series.map(p=>p.y), lo=Math.min(...ys), hi=Math.max(...ys), x0=dnum(series[0].x), x1=dnum(series[series.length-1].x)||x0+1;
+  const X=d=>2+(dnum(d)-x0)/Math.max(1,x1-x0)*(w-6), Y=v=>2+(1-(v-lo)/Math.max(4,hi-lo))*(h-4);
+  const e=series[series.length-1];
+  return `<svg class="cellspark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" aria-hidden="true"><polyline fill="none" stroke="${color}" stroke-width="1.5" stroke-linejoin="round" points="${series.map(p=>`${X(p.x).toFixed(1)},${Y(p.y).toFixed(1)}`).join(" ")}"/><circle cx="${X(e.x)}" cy="${Y(e.y)}" r="2.5" fill="${color}"/></svg>`;
+}
+const partyColor = p => p==="R"?"var(--rep)":p==="I"?"var(--ind)":"var(--dem)";
+const legend = items => `<div class="legend">${items.map(([n,c,shape])=>`<span><i class="${shape||""}" style="background:${c}"></i>${esc(n)}</span>`).join("")}</div>`;
+
+/* ---------- national strip + charts ---------- */
+function latestOf(arr, pref){ const a=(arr||[]).slice().sort((x,y)=>(x.date||"").localeCompare(y.date||"")); const p=a.filter(x=>x.source===pref); return p[p.length-1]||a[a.length-1]; }
+function renderStrip(){
+  if(!NAT) return;
+  const s = NAT.series||{}, snap = (NAT.snapshots||[]).slice().sort(byObs).pop() || {};
+  const H = (s.house_d||[]).at(-1), S = (s.senate_d||[]).at(-1);
+  const gb = latestOf(s.generic_avg, "Silver Bulletin"), ap = latestOf(s.approval_avg, "FiftyPlusOne");
+  const delta = (arr, key) => { if(!arr||arr.length<2) return ""; const last=arr.at(-1); const base=valueAt(arr.map(r=>({x:r.date,y:r[key]})).filter(p=>p.y!=null), winStart(last.date)); return base==null?"":` · ${sgn(last[key]-base)} pts over window`; };
+  const cook = snap.cook_house || {}; const tot = Object.values(cook).reduce((x,y)=>x+y,0);
+  const colors = {"Solid D":"var(--dem)","Likely D":"color-mix(in srgb,var(--dem) 70%,var(--surface))","Lean D":"color-mix(in srgb,var(--dem) 40%,var(--surface))","Toss Up":"var(--tossup)","Lean R":"color-mix(in srgb,var(--rep) 40%,var(--surface))","Likely R":"color-mix(in srgb,var(--rep) 70%,var(--surface))","Solid R":"var(--rep)"};
+  let html = "";
+  if (resultsMode()){ const on = ENTRIES.filter(e=>onBallot(e)&&isSlate(e)), won = on.filter(e=>e.result?.won===true).length, lost = on.filter(e=>e.result?.won===false).length;
+    html += `<div class="ind"><span class="lab">Slate results</span><span class="big">${won}–${lost}</span><span class="sub">won–lost · ${on.length-won-lost} pending of ${on.length} slate candidates on the ballot</span></div>`; }
+  if (gb) html += `<div class="ind"><span class="lab">Generic ballot (polling average)</span><span class="big d">D${sgn(gb.margin)}</span><span class="sub">${esc(gb.source)}, ${fmtDate(gb.date)}</span></div>`;
+  if (ap) html += `<div class="ind"><span class="lab">Trump approval (polling average)</span><span class="big">${Math.round(ap.approve)}%</span><span class="sub">${esc(ap.source)}, ${fmtDate(ap.date)} · ${ap.disapprove}% disapprove</span></div>`;
+  { const sl = ENTRIES.filter(e=>onBallot(e)&&isSlate(e)&&e._ps&&!e._ps.stale); const lead = sl.filter(e=>e._ps.avg>0).length;
+    if (sl.length) html += `<div class="ind lead-tile"><span class="lab">Slate candidates leading in polls</span><span class="big">${lead} of ${sl.length}</span><span class="sub">races polled in the last 30 days, by average margin</span></div>`; }
+  if (H) html += `<div class="ind"><span class="lab">House control (markets)</span><span class="big">D ${Math.round(H.Polymarket??H.Kalshi)}%</span><span class="sub">Polymarket, ${fmtDate(H.date)}${H.Kalshi!=null?` · Kalshi ${Math.round(H.Kalshi)}%`:""}${delta(s.house_d,"Polymarket")}</span></div>`;
+  if (S) html += `<div class="ind"><span class="lab">Senate control (markets)</span><span class="big">D ${Math.round(S.Polymarket??S.Kalshi)}%</span><span class="sub">Polymarket, ${fmtDate(S.date)}${S.Kalshi!=null?` · Kalshi ${Math.round(S.Kalshi)}%`:""}${delta(s.senate_d,"Polymarket")}</span></div>`;
+  if (tot){ const dS=(cook["Solid D"]||0)+(cook["Likely D"]||0)+(cook["Lean D"]||0), rS=(cook["Solid R"]||0)+(cook["Likely R"]||0)+(cook["Lean R"]||0);
+    html += `<div class="ind"><span class="lab">Cook House ratings</span><div class="cook">${Object.entries(cook).map(([k,v])=>`<span title="${k}: ${v}" style="width:${v/tot*100}%;background:${colors[k]||"var(--line)"}"></span>`).join("")}</div><div class="cookleg"><span>D ${dS}</span><span>Toss Up ${cook["Toss Up"]||0}</span><span>R ${rS}</span></div><span class="sub">218 for a majority · ${fmtDate(snap.observed)}</span></div>`; }
+  $("#strip").innerHTML = html;
+  const tbl = (t, rows) => rows && rows.length ? `<div><h3>${t}</h3><table>${rows.map(r=>`<tr><td>${esc(r[0])}</td><td>${esc(r.slice(1,-1).join(" · "))}</td><td>${esc(r[r.length-1])}</td></tr>`).join("")}</table></div>` : "";
+  $("#natgrid").innerHTML = `<p class="small" style="grid-column:1/-1;margin:0">Snapshot of ${fmtDate(snap.observed)}</p>` + tbl("Generic ballot averages", snap.generic_ballot) + tbl("House control", snap.house) + tbl("Senate control", snap.senate) + tbl("Trump approval", snap.approval);
+  $("#natnotes").innerHTML = (snap.notes||[]).map(n=>`<li>${esc(n)}</li>`).join("");
+}
+function renderNatCharts(){
+  if(!NAT || !NAT.series) return;
+  const s = NAT.series;
+  const ctl = (key) => [{name:"Polymarket",color:"var(--s1)",points:(s[key]||[]).filter(r=>r.Polymarket!=null).map(r=>({x:r.date,y:r.Polymarket}))},
+                        {name:"Kalshi",color:"var(--s2)",points:(s[key]||[]).filter(r=>r.Kalshi!=null).map(r=>({x:r.date,y:r.Kalshi}))}];
+  const gp = (s.generic_polls||[]).filter(p=>p.end_date && p.d!=null && p.r!=null).map(p=>({x:p.end_date,y:Math.round((p.d-p.r)*10)/10,label:p.pollster}));
+  const apl = (s.approval_polls||[]).filter(p=>p.end_date && p.approve!=null).map(p=>({x:p.end_date,y:Math.round((p.approve-p.disapprove)*10)/10,label:p.pollster}));
+  $("#natcharts").innerHTML = `
+    <div class="card"><h3>Generic ballot: Democratic margin</h3>${legend([["14-day poll average","var(--s1)"],["Individual polls","var(--muted)","dot"]])}<div class="chart" id="ch-gb"></div></div>
+    <div class="card"><h3>Trump net approval</h3>${legend([["14-day poll average","var(--s1)"],["Individual polls","var(--muted)","dot"]])}<div class="chart" id="ch-ap"></div></div>
+    <div class="card secondary"><h3>House control: market odds for Democrats</h3>${legend([["Polymarket","var(--s1)"],["Kalshi","var(--s2)"]])}<div class="chart" id="ch-house"></div></div>
+    <div class="card secondary"><h3>Senate control: market odds for Democrats</h3>${legend([["Polymarket","var(--s1)"],["Kalshi","var(--s2)"]])}<div class="chart" id="ch-senate"></div></div>`;
+  const pct = v => Math.round(v)+"%";
+  lineChart($("#ch-house"), {lines:ctl("house_d"), yFmt:pct, ref:50, height:130, label:"House control odds over time"});
+  lineChart($("#ch-senate"), {lines:ctl("senate_d"), yFmt:pct, ref:50, height:130, label:"Senate control odds over time"});
+  lineChart($("#ch-gb"), {height:200, lines:[{name:"14-day average",color:"var(--s1)",points:rolling(gp)}], dots:gp, dotColor:"var(--muted)", ref:0, yFmt:v=>"D"+sgn(v).replace("±","+"), label:"Generic ballot margin over time"});
+  lineChart($("#ch-ap"), {height:200, lines:[{name:"14-day average",color:"var(--s1)",points:rolling(apl)}], dots:apl, dotColor:"var(--muted)", ref:0, yFmt:v=>sgn(v), label:"Trump net approval over time"});
+}
+function renderMovers(){
+  const win = $("#f-win").selectedOptions[0].textContent.toLowerCase();
+  const item = (e, d, sub, ser, unit) => `<div class="mv" tabindex="0" data-id="${esc(e.id)}" data-office="${esc(e.office)}"><div><div class="nm">${esc(e.name)}${isSlate(e)?"":' <span class="chip na">Tracked</span>'}</div><div class="rc">${esc(e.race)} · ${sub}</div></div>${sparkSVG(ser, partyColor(e.party), 84, 22)}<div class="chg ${d>0?"up":d<0?"down":"even"}">${d>0?"▲":d<0?"▼":""} ${Math.abs(d)}<small>${unit}</small></div></div>`;
+  const on = ENTRIES.filter(onBallot);
+  const ps = on.map(e=>({e, c: change(e._pser)})).filter(r=>r.c && Math.abs(r.c.d)>=0.5).sort((a,b)=>Math.abs(b.c.d)-Math.abs(a.c.d)).slice(0,8);
+  const ms = on.map(e=>({e, c: change(e._ser)})).filter(r=>r.c && Math.abs(r.c.d)>=0.5).sort((a,b)=>Math.abs(b.c.d)-Math.abs(a.c.d)).slice(0,6);
+  const pollList = ps.map(({e,c})=>item(e, c.d, `poll average ${sgn(c.from)} → ${sgn(c.to)}`, e._pser.filter(p=>p.x>=winStart(e._pser.at(-1).x)), "pts")).join("") || '<p class="small">No race has enough polls in this window to measure a shift. Try a longer window.</p>';
+  const mktList = ms.map(({e,c})=>item(e, c.d, `${Math.round(c.from)}% → ${Math.round(c.to)}%`, e._ser.filter(p=>p.x>=winStart(e._ser.at(-1).x)), "pts")).join("") || '<p class="small">No market moves of half a point or more in this window.</p>';
+  $("#movers").innerHTML = `<div class="card"><h3>Biggest polling shifts, ${esc(win)}</h3><span class="sub">Change in each race's 21-day polling average (candidate's margin) · click to open</span>${pollList}</div>
+    <div class="card secondary"><h3>Biggest market moves, ${esc(win)}</h3><span class="sub">Secondary signal: change in prediction-market win odds</span>${mktList}</div>`;
+}
+
+/* ---------- race board ---------- */
+function pollCell(r){
+  const s = r._ps; if(!s) return '<span class="small">No polls yet</span>';
+  const v = s.avg, word = v>0?`Leads by ${Math.abs(v)}`:v<0?`Trails by ${Math.abs(v)}`:"Tied";
+  const meta = s.stale ? `Latest poll only · ${fmtDate(s.latest.x)}` : `Avg of ${s.n} poll${s.n>1?"s":""}, last 30 days${s.partisan?` · ${s.partisan} partisan`:""}`;
+  return `<div class="poll"><span class="lead ${v>0?"pos":v<0?"neg":"even"}">${word}</span><span class="meta">${meta}</span><span class="meta" title="${esc(s.latest.p.text)}">Latest: ${esc(s.latest.p.pollster||"")} ${sgn(s.latest.y)}</span></div>`;
+}
+function pollChgCell(r){
+  const c = change(r._pser); if(!c) return '<span class="small">—</span>';
+  const w = r._pser.filter(p=>p.x>=winStart(r._pser.at(-1).x));
+  return `<div style="display:flex;gap:6px;align-items:center">${sparkSVG(w, partyColor(r.party))}<span class="delta ${c.d>0?"up":c.d<0?"down":""}">${c.d>0?"▲":c.d<0?"▼":"±"}${Math.abs(c.d)}</span></div>`;
+}
+function mktCell(r){
+  if(!r._m){ const n = (r.markets||[]).at(-1)?.note; return `<span class="small">${esc(n||"—")}</span>`; }
+  const c = change(r._ser);
+  return `<div class="mktcell"><div class="mkt quiet"><b>${Math.round(r._m.pct)}%</b><div class="bar" title="${esc(r._m.platform)} · ${fmtDate(r._m.observed)}"><i style="width:${r._m.pct}%;background:${partyColor(r.party)}"></i></div></div>${c&&c.d?`<span class="small">${c.d>0?"▲":"▼"}${Math.abs(c.d)} over window</span>`:""}</div>`;
+}
+function resCell(r){
+  const x = r.result; if(!x || !x.status || x.status==="pending") return '<span class="res pend">Pending</span>';
+  if (x.won===true) return `<span class="res won">Won${x.cand_pct!=null?` ${x.cand_pct}–${x.opp_pct}`:""}</span>`;
+  if (x.won===false) return `<span class="res lost">Lost${x.cand_pct!=null?` ${x.cand_pct}–${x.opp_pct}`:""}</span>`;
+  return `<span class="res pend">${esc(x.status)}</span>`;
+}
+function detail(r){
+  const li = a => a.length ? `<ul>${a.join("")}</ul>` : '<p class="small">None recorded.</p>';
+  const rat = [...(r.ratings||[])].sort(byObs).reverse().map(x=>`<li>${esc(x.source)}: <b>${esc(x.rating)}</b> <span class="small">${fmtDate(x.as_of||x.observed)}</span></li>`);
+  const pol = [...r._polls].reverse().map(p=>`<li>${p.url?`<a href="${esc(p.url)}">${esc(p.text)}</a>`:esc(p.text)}${p.sponsor_lean?` <span class="small">(${esc(p.sponsor_lean)}-sponsored)</span>`:""}</li>`);
+  const fin = [...(r.finance||[])].sort(byObs).reverse().map(f=>`<li>${esc(f.text)} <span class="small">${fmtDate(f.observed)}</span></li>`);
+  const res = r.result && r.result.status!=="pending" ? `<div><h4>Result</h4><p>${resCell(r)} ${r.result.called_by?`<span class="small">called by ${esc(r.result.called_by)}</span>`:""}</p></div>` : "";
+  const hasPollNums = r._polls.some(p=>margin(p)!=null && pollDate(p));
+  return `<div class="hist">
+    ${res}
+    <div class="racecharts">
+      <div class="card"><h3>Poll margin: ${esc(r.name)} vs ${esc((r._polls.find(p=>p.opp_name)||{}).opp_name||"opponent")}</h3>${hasPollNums?legend([...(r._polls.filter(p=>margin(p)!=null).length>=4?[["14-day average","var(--s1)"]]:[]),["Independent poll","var(--muted)","dot"],["Partisan or campaign poll","var(--muted)","ring"]]):""}<div class="chart" data-chart="poll" data-id="${esc(r.id)}">${hasPollNums?"":'<p class="small">No polls with numeric toplines yet.</p>'}</div></div>
+      <div class="card secondary"><h3>Market odds (secondary): ${esc(r.name)}</h3>${legend([["Polymarket","var(--s1)"],["Kalshi","var(--s2)"]])}<div class="chart" data-chart="mkt" data-id="${esc(r.id)}"></div></div>
+    </div>
+    <div><h4>Polls (newest first)</h4>${li(pol)}</div>
+    <div><h4>Race</h4><dl class="dl"><dt>Opponent(s)</dt><dd>${esc(r.opponents||"—")}</dd><dt>Seat held by</dt><dd>${esc(r.seat_held||"—")}</dd><dt>2024 pres. / PVI</dt><dd>${esc(r.pres24||"—")}</dd>${r.list_tier?`<dt>List</dt><dd>${esc(r.list_tier)}</dd>`:""}<dt>Notes</dt><dd>${esc(r.note||"—")}</dd><dt>Last updated</dt><dd>${fmtDate(r.updated)}</dd></dl></div>
+    <div><h4>Ratings history</h4>${li(rat)}</div>
+    <div><h4>Cash on hand</h4>${li(fin)}</div></div>`;
+}
+function drawRaceCharts(){
+  document.querySelectorAll('[data-chart]').forEach(el=>{
+    const r = ENTRIES.find(e=>e.id===el.dataset.id); if(!r) return;
+    if(el.dataset.chart==="mkt"){
+      lineChart(el, {height:130, lines:[{name:"Polymarket",color:"var(--s1)",points:platSeries(r,"Polymarket")},{name:"Kalshi",color:"var(--s2)",points:platSeries(r,"Kalshi")}], yFmt:v=>Math.round(v)+"%", ref:50, label:`Market odds for ${r.name}`});
+    } else {
+      const pts = r._polls.filter(p=>margin(p)!=null && pollDate(p)).map(p=>({x:pollDate(p),y:margin(p),hollow:!!p.sponsor_lean,label:`${p.pollster}${p.sponsor_lean?` (${p.sponsor_lean})`:""}`}));
+      if(!pts.length) return;
+      lineChart(el, {height:200, lines: pts.length>=4 ? [{name:"14-day average",color:"var(--s1)",points:rolling(pts)}] : [], dots:pts, dotColor:"var(--muted)", ref:0, yFmt:v=>sgn(v), label:`Poll margin for ${r.name}`});
+    }
+  });
+}
+function filtered(){
+  const band=$("#f-band").value, q=$("#f-q").value.trim().toLowerCase(), tier=$("#f-tier").value;
+  return ENTRIES.filter(r=>r.office===office).filter(onBallot).filter(r=>{
+    if(band==="comp") return r._ps ? Math.abs(r._ps.avg)<=5 : (r._m && r._m.pct>=15 && r._m.pct<=85);
+    if(band==="tu") return rkey(r._r.Cook?.rating)==="Toss Up";
+    if(band==="chal") return /Challenger|Open/.test(r.slate_status||"");
+    if(band==="slate") return isSlate(r);
+    if(band==="tracked") return !isSlate(r);
+    return true;
+  }).filter(r=>tier==="all"||r.list_tier===tier)
+    .filter(r=>!q || [r.name,r.state,r.race,r.opponents].join(" ").toLowerCase().includes(q));
+}
+function sorted(rows){
+  const close = r => r._m ? Math.abs(r._m.pct-50) : 999;
+  const cookd = r => { const k = rkey(r._r.Cook?.rating); return k==null?9:Math.abs(RATING[k]-3); };
+  const chg = r => { const c=change(r._ser); return c? -Math.abs(c.d) : 999; };
+  const lastKey = r => ((r.last_name || r.name.split(" ").pop()) + " " + r.name).toLowerCase();
+  const pclose = r => r._ps ? Math.abs(r._ps.avg) + (r._ps.stale?50:0) : 500 + close(r);
+  const pchg = r => { const c=change(r._pser); return c? -Math.abs(c.d) : 999; };
+  return rows.slice().sort((a,b)=>{
+    if(onBallot(a)!==onBallot(b)) return onBallot(a)?-1:1;
+    const [x,y] = sortKey==="poll" ? [pclose(a),pclose(b)] : sortKey==="pchg" ? [pchg(a),pchg(b)] : sortKey==="name" ? [lastKey(a),lastKey(b)] : sortKey==="mkt" ? [close(a),close(b)] : sortKey==="cook" ? [cookd(a),cookd(b)] : sortKey==="chg" ? [chg(a),chg(b)] : [a[sortKey]||"", b[sortKey]||""];
+    return (x<y?-1:x>y?1:0)*sortDir;
+  });
+}
+function render(){
+  const rm = resultsMode(); document.querySelectorAll(".rescol").forEach(el=>el.hidden=!rm);
+  $("#f-tier").hidden = !ENTRIES.some(e=>e.list_tier);
+  $("#chghead").textContent = {"7":"Poll shift, 7 days","30":"Poll shift, 30 days","since":"Poll shift since Aug 1"}[$("#f-win").value];
+  const cols = rm ? 10 : 9;
+  if(!ENTRIES.length){ $("#tb").innerHTML = `<tr><td colspan="${cols}" class="empty">No candidates loaded yet. Tracker rows appear here once the data store answers.</td></tr>`; $("#count").textContent=""; return; }
+  const rows = sorted(filtered());
+  $("#count").textContent = `${rows.length} candidate${rows.length===1?"":"s"}`;
+  $("#tb").innerHTML = rows.map(r=>{
+    const off = !onBallot(r), isOpen = open.has(r.id);
+    return `<tr class="row ${off?"off":""}" tabindex="0" data-id="${esc(r.id)}" aria-expanded="${isOpen}">
+      <td><span class="cand">${esc(r.name)}</span><span class="pty ${esc(r.party)}">${esc(r.party)}</span>${isSlate(r)?"":'<span class="chip na" style="margin-left:6px">Tracked</span>'}<div class="small">${esc(r.slate_status)}${r.list_tier?` · ${esc(r.list_tier)} list`:""}</div></td>
+      <td><span class="race">${esc(r.race)}</span><div class="small">${off?esc(r.ballot):"Seat: "+esc(r.seat_held||"—")}</div></td>
+      <td class="small">${esc(off?r.note:r.opponents)}</td>
+      <td>${pollCell(r)}</td><td>${pollChgCell(r)}</td>
+      <td>${chip(r._r.Cook?.rating)}</td><td>${chip(r._r.Sabato?.rating)}</td><td>${chip(r._r["Inside Elections"]?.rating)}</td>
+      <td>${mktCell(r)}</td>
+      ${rm?`<td>${off?"":resCell(r)}</td>`:""}</tr>` + (isOpen && !off ? `<tr class="detail"><td colspan="${cols}">${detail(r)}</td></tr>` : "");
+  }).join("") || `<tr><td colspan="${cols}" class="empty">No candidates match these filters.</td></tr>`;
+  drawRaceCharts();
+}
+function renderAll(){ render(); renderStrip(); renderMovers(); }
+function setStatus(live, text){ $("#status").innerHTML = `<span class="dot ${live?"live":""}"></span><span>${esc(text)}</span>`; }
+function statusText(){ const d = INFO?.last_updated || ENTRIES.map(e=>e.updated).sort().at(-1); return d ? `Data last updated ${fmtDate(d)}, 2026 · updates appear here automatically` : "Live"; }
+
+document.querySelectorAll(".tabs button").forEach(b=>b.addEventListener("click",()=>{ office=b.dataset.o; document.querySelectorAll(".tabs button").forEach(x=>x.setAttribute("aria-pressed",x===b)); render(); }));
+["#f-band","#f-q","#f-tier"].forEach(s=>$(s).addEventListener("input",render));
+$("#f-win").addEventListener("input", renderAll);
+document.querySelectorAll("th[data-sort]").forEach(th=>th.addEventListener("click",()=>{ const k=th.dataset.sort; sortDir=(sortKey===k)?-sortDir:1; sortKey=k; render(); }));
+function toggle(id){ open.has(id)?open.delete(id):open.add(id); render(); }
+$("#tb").addEventListener("click",e=>{ if(e.target.closest("a, .chart")) return; const tr=e.target.closest("tr.row"); if(tr) toggle(tr.dataset.id); });
+$("#tb").addEventListener("keydown",e=>{ if(e.key==="Enter"){ const tr=e.target.closest("tr.row"); if(tr) toggle(tr.dataset.id); } });
+function jumpTo(mv){ const id=mv.dataset.id, off=mv.dataset.office; office=off; document.querySelectorAll(".tabs button").forEach(x=>x.setAttribute("aria-pressed",x.dataset.o===off)); $("#f-band").value="all"; $("#f-q").value=""; open.add(id); render(); const tr=document.querySelector(`tr.row[data-id="${CSS.escape(id)}"]`); if(tr) tr.scrollIntoView({behavior:"smooth",block:"start"}); }
+$("#movers").addEventListener("click",e=>{ const mv=e.target.closest(".mv"); if(mv) jumpTo(mv); });
+$("#movers").addEventListener("keydown",e=>{ if(e.key==="Enter"){ const mv=e.target.closest(".mv"); if(mv) jumpTo(mv); } });
+let rz; window.addEventListener("resize",()=>{ clearTimeout(rz); rz=setTimeout(()=>{ renderNatCharts(); drawRaceCharts(); },150); });
+render();
+
+(async () => {
+  const db = window.claude?.use ? await window.claude.use("db") : null;
+  if (!db){ setStatus(false, "Sign in to claude.ai to load the tracker data."); $("#tb").innerHTML = `<tr><td colspan="9" class="empty">The tracker data is stored with this page and loads for signed-in viewers.</td></tr>`; return; }
+  db.collection("entries").limit(1000).onSnapshot(snap => {
+    ENTRIES = snap.docs.map(d => derive(d.data())); setStatus(true, statusText()); renderAll();
+  }, err => setStatus(false, "Couldn't load tracker data (" + err.code + "). Reload the page to try again."));
+  db.doc("meta/national").onSnapshot(s => { NAT = s.exists ? s.data() : null; renderStrip(); renderNatCharts(); }, () => {});
+  db.doc("meta/info").onSnapshot(s => { INFO = s.exists ? s.data() : null; if (ENTRIES.length) setStatus(true, statusText()); }, () => {});
+})();
+</script>

@@ -1,0 +1,8 @@
+# generated outputs and working copies
+out/
+/entries.json
+/national.json
+*.backup-*.json
+__pycache__/
+*.pyc
+.DS_Store

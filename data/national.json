@@ -1,0 +1,2739 @@
+{
+ "schema_version": 1,
+ "snapshots": [
+  {
+   "observed": "2026-10-01",
+   "generic_ballot": [
+    [
+     "Silver Bulletin",
+     "D+9.0",
+     "Oct 1"
+    ],
+    [
+     "FiftyPlusOne",
+     "D 50.9 – R 43.1 (D+8)",
+     "Oct 1"
+    ],
+    [
+     "Decision Desk HQ",
+     "D 48.8 – R 40.9 (D+7.9)",
+     "Oct 1"
+    ],
+    [
+     "RealClearPolitics",
+     "D 50.5 – R 42.1 (D+8.4)",
+     "Sep 28"
+    ]
+   ],
+   "generic_polls": [
+    [
+     "Quinnipiac",
+     "Sep 24–27",
+     "1,032 RV",
+     "D+12 (51–39)"
+    ],
+    [
+     "Emerson",
+     "Sep 21–22",
+     "1,000 LV",
+     "D+11 (53–42)"
+    ],
+    [
+     "NPR/PBS/Marist",
+     "Sep 14–15",
+     "1,280 RV",
+     "D+12 (53–41)"
+    ],
+    [
+     "Reuters/Ipsos",
+     "early Sep",
+     "1,143 adults",
+     "D+7 (44–37)"
+    ],
+    [
+     "Harvard CAPS/Harris",
+     "Sep 26–28",
+     "n/a",
+     "D+2 LV (forced choice)"
+    ]
+   ],
+   "approval": [
+    [
+     "FiftyPlusOne",
+     "34.7 / 62.6",
+     "Oct 1"
+    ],
+    [
+     "RealClearPolitics",
+     "39.8 / 56.8",
+     "late Sep"
+    ],
+    [
+     "CNN poll of polls",
+     "35 / 63",
+     "Sep"
+    ]
+   ],
+   "house": [
+    [
+     "Polymarket",
+     "D 93%",
+     "Oct 1"
+    ],
+    [
+     "Kalshi",
+     "D 91.5%",
+     "Oct 1"
+    ],
+    [
+     "PredictIt",
+     "D 89%",
+     "Oct 1"
+    ],
+    [
+     "Silver Bulletin model",
+     "D 87%, 233–202",
+     "~Sep 30"
+    ],
+    [
+     "DDHQ model",
+     "D 75%, ~232 D seats",
+     "Sep 30"
+    ],
+    [
+     "Cook Political Report",
+     "D +5 to +15 seats",
+     "Sep 25"
+    ],
+    [
+     "Inside Elections",
+     "D +7 to +15 seats",
+     "Sep 22"
+    ]
+   ],
+   "senate": [
+    [
+     "Polymarket",
+     "D 63%",
+     "Oct 1"
+    ],
+    [
+     "Kalshi",
+     "D 63%",
+     "Sep 30"
+    ],
+    [
+     "Silver Bulletin model",
+     "D 57%, 51–49",
+     "~Sep 30"
+    ],
+    [
+     "DDHQ model",
+     "D 55%, 51 D seats",
+     "Sep 30"
+    ],
+    [
+     "Cook",
+     "True toss-up; D need net +4 from 53R–47D",
+     "Sep 28"
+    ]
+   ],
+   "cook_house": {
+    "Solid D": 185,
+    "Likely D": 12,
+    "Lean D": 11,
+    "Toss Up": 22,
+    "Lean R": 10,
+    "Likely R": 19,
+    "Solid R": 176
+   },
+   "notes": [
+    "House majority = 218; Inside Elections/Cook: Democrats need a net gain of 3.",
+    "Mid-decade redistricting nets roughly R+10 on paper (TX +5R, FL +4R, OH +2R, NC/MO/AL/TN/LA +1R each vs CA +5D, UT +1D); VA's +4D map was voided May 8. DDHQ estimates the environment erases most of that edge.",
+    "Missouri: sources conflict on whether the new map is in effect; reporting from Sept 3–25 says the MO Supreme Court blocked it and the 2022 map is used, with a referendum Nov 3."
+   ]
+  },
+  {
+   "observed": "2026-10-13",
+   "generic_ballot": [
+    [
+     "Silver Bulletin",
+     "D+9.0",
+     "Oct 1"
+    ],
+    [
+     "FiftyPlusOne",
+     "D 50.9 – R 43.1 (D+8)",
+     "Oct 1"
+    ],
+    [
+     "Decision Desk HQ",
+     "D 48.8 – R 40.9 (D+7.9)",
+     "Oct 1"
+    ],
+    [
+     "RealClearPolitics",
+     "D 50.5 – R 42.1 (D+8.4)",
+     "Sep 28"
+    ]
+   ],
+   "generic_polls": [
+    [
+     "Quinnipiac",
+     "Sep 24–27",
+     "1,032 RV",
+     "D+12 (51–39)"
+    ],
+    [
+     "Emerson",
+     "Sep 21–22",
+     "1,000 LV",
+     "D+11 (53–42)"
+    ],
+    [
+     "NPR/PBS/Marist",
+     "Sep 14–15",
+     "1,280 RV",
+     "D+12 (53–41)"
+    ],
+    [
+     "Reuters/Ipsos",
+     "early Sep",
+     "1,143 adults",
+     "D+7 (44–37)"
+    ],
+    [
+     "Harvard CAPS/Harris",
+     "Sep 26–28",
+     "n/a",
+     "D+2 LV (forced choice)"
+    ]
+   ],
+   "approval": [
+    [
+     "FiftyPlusOne",
+     "34.7 / 62.6",
+     "Oct 1"
+    ],
+    [
+     "RealClearPolitics",
+     "39.8 / 56.8",
+     "late Sep"
+    ],
+    [
+     "CNN poll of polls",
+     "35 / 63",
+     "Sep"
+    ]
+   ],
+   "house": [
+    [
+     "Polymarket",
+     "D 93%",
+     "Oct 1"
+    ],
+    [
+     "Kalshi",
+     "D 91.5%",
+     "Oct 1"
+    ],
+    [
+     "PredictIt",
+     "D 89%",
+     "Oct 1"
+    ],
+    [
+     "Silver Bulletin model",
+     "D 87%, 233–202",
+     "~Sep 30"
+    ],
+    [
+     "DDHQ model",
+     "D 75%, ~232 D seats",
+     "Sep 30"
+    ],
+    [
+     "Cook Political Report",
+     "D +5 to +15 seats",
+     "Sep 25"
+    ],
+    [
+     "Inside Elections",
+     "D +7 to +15 seats",
+     "Sep 22"
+    ]
+   ],
+   "senate": [
+    [
+     "Polymarket",
+     "D 63%",
+     "Oct 1"
+    ],
+    [
+     "Kalshi",
+     "D 63%",
+     "Sep 30"
+    ],
+    [
+     "Silver Bulletin model",
+     "D 57%, 51–49",
+     "~Sep 30"
+    ],
+    [
+     "DDHQ model",
+     "D 55%, 51 D seats",
+     "Sep 30"
+    ],
+    [
+     "Cook",
+     "True toss-up; D need net +4 from 53R–47D",
+     "Sep 28"
+    ]
+   ],
+   "cook_house": {
+    "Solid D": 185,
+    "Likely D": 16,
+    "Lean D": 12,
+    "Toss Up": 21,
+    "Lean R": 9,
+    "Likely R": 18,
+    "Solid R": 174
+   },
+   "notes": [
+    "House majority = 218; Inside Elections/Cook: Democrats need a net gain of 3.",
+    "Mid-decade redistricting nets roughly R+10 on paper (TX +5R, FL +4R, OH +2R, NC/MO/AL/TN/LA +1R each vs CA +5D, UT +1D); VA's +4D map was voided May 8. DDHQ estimates the environment erases most of that edge.",
+    "Missouri: sources conflict on whether the new map is in effect; reporting from Sept 3–25 says the MO Supreme Court blocked it and the 2022 map is used, with a referendum Nov 3."
+   ]
+  }
+ ],
+ "series": {
+  "house_d": [
+   {
+    "date": "2026-08-01",
+    "Polymarket": 85.5,
+    "Kalshi": 83.5
+   },
+   {
+    "date": "2026-08-02",
+    "Polymarket": 85.5,
+    "Kalshi": 83.5
+   },
+   {
+    "date": "2026-08-03",
+    "Polymarket": 85.5,
+    "Kalshi": 83.5
+   },
+   {
+    "date": "2026-08-04",
+    "Polymarket": 85.5,
+    "Kalshi": 83.5
+   },
+   {
+    "date": "2026-08-05",
+    "Polymarket": 86.5,
+    "Kalshi": 83.5
+   },
+   {
+    "date": "2026-08-06",
+    "Polymarket": 86.5,
+    "Kalshi": 83.5
+   },
+   {
+    "date": "2026-08-07",
+    "Polymarket": 87.5,
+    "Kalshi": 83.5
+   },
+   {
+    "date": "2026-08-08",
+    "Polymarket": 87.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-09",
+    "Polymarket": 87.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-10",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-11",
+    "Polymarket": 86.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-12",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-13",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-14",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-15",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-16",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-17",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-18",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-19",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-20",
+    "Polymarket": 87.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-21",
+    "Polymarket": 87.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-22",
+    "Polymarket": 87.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-23",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-24",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-25",
+    "Polymarket": 88.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-26",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-08-27",
+    "Polymarket": 87.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-28",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-29",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-30",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-08-31",
+    "Polymarket": 89.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-01",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-02",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-03",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-04",
+    "Polymarket": 89.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-05",
+    "Polymarket": 88.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-06",
+    "Polymarket": 87.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-07",
+    "Polymarket": 87.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-08",
+    "Polymarket": 86.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-09",
+    "Polymarket": 86.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-10",
+    "Polymarket": 87.5,
+    "Kalshi": 84.5
+   },
+   {
+    "date": "2026-09-11",
+    "Polymarket": 86.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-09-12",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-09-13",
+    "Polymarket": 86.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-09-14",
+    "Polymarket": 86.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-09-15",
+    "Polymarket": 87.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-09-16",
+    "Polymarket": 86.5,
+    "Kalshi": 85.5
+   },
+   {
+    "date": "2026-09-17",
+    "Polymarket": 88.5,
+    "Kalshi": 88.5
+   },
+   {
+    "date": "2026-09-18",
+    "Polymarket": 89.5,
+    "Kalshi": 89.5
+   },
+   {
+    "date": "2026-09-19",
+    "Polymarket": 89.5,
+    "Kalshi": 89.5
+   },
+   {
+    "date": "2026-09-20",
+    "Polymarket": 90.5,
+    "Kalshi": 90.3
+   },
+   {
+    "date": "2026-09-21",
+    "Polymarket": 92.5,
+    "Kalshi": 91.3
+   },
+   {
+    "date": "2026-09-22",
+    "Polymarket": 92.5,
+    "Kalshi": 90.5
+   },
+   {
+    "date": "2026-09-23",
+    "Polymarket": 92.5,
+    "Kalshi": 91.1
+   },
+   {
+    "date": "2026-09-24",
+    "Polymarket": 92.5,
+    "Kalshi": 91.7
+   },
+   {
+    "date": "2026-09-25",
+    "Polymarket": 92.5,
+    "Kalshi": 91.3
+   },
+   {
+    "date": "2026-09-26",
+    "Polymarket": 92.5,
+    "Kalshi": 91.9
+   },
+   {
+    "date": "2026-09-27",
+    "Polymarket": 92.5,
+    "Kalshi": 91.8
+   },
+   {
+    "date": "2026-09-28",
+    "Polymarket": 92.5,
+    "Kalshi": 91.7
+   },
+   {
+    "date": "2026-09-29",
+    "Polymarket": 92.5,
+    "Kalshi": 91.5
+   },
+   {
+    "date": "2026-09-30",
+    "Polymarket": 92.5,
+    "Kalshi": 91.4
+   },
+   {
+    "date": "2026-10-01",
+    "Polymarket": 92.5,
+    "Kalshi": 91.5
+   },
+   {
+    "date": "2026-10-02",
+    "Polymarket": 92.5,
+    "Kalshi": 91.5
+   },
+   {
+    "date": "2026-10-03",
+    "Polymarket": 92.5,
+    "Kalshi": 91.8
+   },
+   {
+    "date": "2026-10-04",
+    "Polymarket": 93.5,
+    "Kalshi": 91.9
+   },
+   {
+    "date": "2026-10-05",
+    "Polymarket": 92.5,
+    "Kalshi": 91.4
+   },
+   {
+    "date": "2026-10-06",
+    "Polymarket": 92.5,
+    "Kalshi": 91.5
+   },
+   {
+    "date": "2026-10-07",
+    "Polymarket": 92.5,
+    "Kalshi": 91.0
+   },
+   {
+    "date": "2026-10-08",
+    "Polymarket": 91.5,
+    "Kalshi": 89.5
+   },
+   {
+    "date": "2026-10-09",
+    "Polymarket": 90.5,
+    "Kalshi": 90.1
+   },
+   {
+    "date": "2026-10-10",
+    "Polymarket": 90.5,
+    "Kalshi": 89.5
+   },
+   {
+    "date": "2026-10-11",
+    "Polymarket": 90.5,
+    "Kalshi": 90.2
+   },
+   {
+    "date": "2026-10-12",
+    "Polymarket": 90.5,
+    "Kalshi": 89.5
+   },
+   {
+    "date": "2026-10-13",
+    "Polymarket": 90.5,
+    "Kalshi": 89.5
+   },
+   {
+    "date": "2026-10-14",
+    "Polymarket": 90.5,
+    "Kalshi": 90.1
+   }
+  ],
+  "senate_d": [
+   {
+    "date": "2026-08-01",
+    "Polymarket": 43.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-02",
+    "Polymarket": 44.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-03",
+    "Polymarket": 44.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-04",
+    "Polymarket": 44.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-05",
+    "Polymarket": 44.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-06",
+    "Polymarket": 44.5,
+    "Kalshi": 44.5
+   },
+   {
+    "date": "2026-08-07",
+    "Polymarket": 45.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-08",
+    "Polymarket": 45.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-09",
+    "Polymarket": 45.5,
+    "Kalshi": 45.5
+   },
+   {
+    "date": "2026-08-10",
+    "Polymarket": 45.5,
+    "Kalshi": 45.5
+   },
+   {
+    "date": "2026-08-11",
+    "Polymarket": 46.5,
+    "Kalshi": 45.5
+   },
+   {
+    "date": "2026-08-12",
+    "Polymarket": 50.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-08-13",
+    "Polymarket": 52.5,
+    "Kalshi": 49.5
+   },
+   {
+    "date": "2026-08-14",
+    "Polymarket": 52.5,
+    "Kalshi": 49.5
+   },
+   {
+    "date": "2026-08-15",
+    "Polymarket": 52.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-08-16",
+    "Polymarket": 52.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-08-17",
+    "Polymarket": 52.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-08-18",
+    "Polymarket": 50.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-08-19",
+    "Polymarket": 51.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-08-20",
+    "Polymarket": 50.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-21",
+    "Polymarket": 50.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-22",
+    "Polymarket": 50.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-23",
+    "Polymarket": 50.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-24",
+    "Polymarket": 49.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-25",
+    "Polymarket": 49.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-08-26",
+    "Polymarket": 49.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-08-27",
+    "Polymarket": 50.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-08-28",
+    "Polymarket": 50.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-08-29",
+    "Polymarket": 50.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-08-30",
+    "Polymarket": 50.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-08-31",
+    "Polymarket": 50.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-09-01",
+    "Polymarket": 50.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-09-02",
+    "Polymarket": 50.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-09-03",
+    "Polymarket": 51.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-09-04",
+    "Polymarket": 51.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-09-05",
+    "Polymarket": 51.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-09-06",
+    "Polymarket": 51.5,
+    "Kalshi": 46.5
+   },
+   {
+    "date": "2026-09-07",
+    "Polymarket": 51.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-09-08",
+    "Polymarket": 51.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-09-09",
+    "Polymarket": 52.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-09-10",
+    "Polymarket": 52.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-09-11",
+    "Polymarket": 52.5,
+    "Kalshi": 47.5
+   },
+   {
+    "date": "2026-09-12",
+    "Polymarket": 52.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-09-13",
+    "Polymarket": 53.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-09-14",
+    "Polymarket": 52.5,
+    "Kalshi": 48.5
+   },
+   {
+    "date": "2026-09-15",
+    "Polymarket": 53.5,
+    "Kalshi": 52.5
+   },
+   {
+    "date": "2026-09-16",
+    "Polymarket": 58.5,
+    "Kalshi": 54.5
+   },
+   {
+    "date": "2026-09-17",
+    "Polymarket": 58.5,
+    "Kalshi": 55.5
+   },
+   {
+    "date": "2026-09-18",
+    "Polymarket": 59.5,
+    "Kalshi": 58.5
+   },
+   {
+    "date": "2026-09-19",
+    "Polymarket": 60.5,
+    "Kalshi": 59.5
+   },
+   {
+    "date": "2026-09-20",
+    "Polymarket": 60.5,
+    "Kalshi": 59.5
+   },
+   {
+    "date": "2026-09-21",
+    "Polymarket": 60.5,
+    "Kalshi": 59.5
+   },
+   {
+    "date": "2026-09-22",
+    "Polymarket": 63.5,
+    "Kalshi": 60.5
+   },
+   {
+    "date": "2026-09-23",
+    "Polymarket": 65.5,
+    "Kalshi": 62.5
+   },
+   {
+    "date": "2026-09-24",
+    "Polymarket": 66.5,
+    "Kalshi": 64.5
+   },
+   {
+    "date": "2026-09-25",
+    "Polymarket": 62.5,
+    "Kalshi": 60.5
+   },
+   {
+    "date": "2026-09-26",
+    "Polymarket": 62.5,
+    "Kalshi": 61.5
+   },
+   {
+    "date": "2026-09-27",
+    "Polymarket": 62.5,
+    "Kalshi": 61.5
+   },
+   {
+    "date": "2026-09-28",
+    "Polymarket": 62.5,
+    "Kalshi": 61.5
+   },
+   {
+    "date": "2026-09-29",
+    "Polymarket": 62.5,
+    "Kalshi": 61.5
+   },
+   {
+    "date": "2026-09-30",
+    "Polymarket": 62.5,
+    "Kalshi": 61.5
+   },
+   {
+    "date": "2026-10-01",
+    "Polymarket": 62.5,
+    "Kalshi": 62.5
+   },
+   {
+    "date": "2026-10-02",
+    "Polymarket": 62.5,
+    "Kalshi": 62.5
+   },
+   {
+    "date": "2026-10-03",
+    "Polymarket": 64.5,
+    "Kalshi": 62.5
+   },
+   {
+    "date": "2026-10-04",
+    "Polymarket": 64.5,
+    "Kalshi": 63.5
+   },
+   {
+    "date": "2026-10-05",
+    "Polymarket": 67.5,
+    "Kalshi": 63.5
+   },
+   {
+    "date": "2026-10-06",
+    "Polymarket": 65.5,
+    "Kalshi": 64.5
+   },
+   {
+    "date": "2026-10-07",
+    "Polymarket": 64.5,
+    "Kalshi": 64.5
+   },
+   {
+    "date": "2026-10-08",
+    "Polymarket": 64.5,
+    "Kalshi": 62.5
+   },
+   {
+    "date": "2026-10-09",
+    "Polymarket": 62.5,
+    "Kalshi": 61.5
+   },
+   {
+    "date": "2026-10-10",
+    "Polymarket": 62.5,
+    "Kalshi": 60.5
+   },
+   {
+    "date": "2026-10-11",
+    "Polymarket": 62.5,
+    "Kalshi": 60.5
+   },
+   {
+    "date": "2026-10-12",
+    "Polymarket": 63.5,
+    "Kalshi": 61.5
+   },
+   {
+    "date": "2026-10-13",
+    "Polymarket": 63.5,
+    "Kalshi": 61.5
+   },
+   {
+    "date": "2026-10-14",
+    "Polymarket": 63.5,
+    "Kalshi": 61.5
+   }
+  ],
+  "generic_polls": [
+   {
+    "pollster": "Quantus Insights",
+    "start_date": "2026-07-03",
+    "end_date": "2026-07-07",
+    "sample": "1,140",
+    "d": 47.1,
+    "r": 42.3,
+    "url": "https://data.ddhq.io/polls/2026/07/08/Quantus-Insights-National"
+   },
+   {
+    "pollster": "Verasight/Strength In Numbers (RV)",
+    "start_date": "2026-07-14",
+    "end_date": "2026-07-17",
+    "sample": "RV subset of 1,514 A",
+    "d": 50,
+    "r": 43,
+    "url": "https://data.ddhq.io/polls/2026/07/21/Verasight/Strength-in-Numbers-National-2026-07-14-2026-07-17"
+   },
+   {
+    "pollster": "Fox News (Beacon/Shaw)",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "sample": "1,003 RV",
+    "d": 53,
+    "r": 46,
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/fox_july-17-20-2026_national_topline_july-23-release.pdf"
+   },
+   {
+    "pollster": "Emerson",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-20",
+    "sample": "1,100 LV",
+    "d": 53,
+    "r": 42,
+    "url": "https://emersoncollegepolling.com/july-2026-national-poll-democrats-with-11-point-generic-ballot-advantage/"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-27",
+    "sample": null,
+    "d": 46,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Big Data Poll",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-29",
+    "sample": null,
+    "d": 50,
+    "r": 39,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Marquette",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-29",
+    "sample": null,
+    "d": 51,
+    "r": 45,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-02",
+    "sample": null,
+    "d": 46,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-03",
+    "sample": null,
+    "d": 46,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-03",
+    "sample": null,
+    "d": 42,
+    "r": 37,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Quantus Insights",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-04",
+    "sample": null,
+    "d": 49,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "RMG Research",
+    "start_date": "2026-07-28",
+    "end_date": "2026-08-04",
+    "sample": null,
+    "d": 47,
+    "r": 45,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Cygnal",
+    "start_date": "2026-08-06",
+    "end_date": "2026-08-07",
+    "sample": null,
+    "d": 49,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-10",
+    "sample": null,
+    "d": 46,
+    "r": 40,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Financial Times",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-11",
+    "sample": null,
+    "d": 51,
+    "r": 45,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-16",
+    "sample": null,
+    "d": 46,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Emerson",
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-17",
+    "sample": "1,000 LV",
+    "d": 51,
+    "r": 43,
+    "url": "https://emersoncollegepolling.com/august-2026-national-poll/"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-17",
+    "sample": null,
+    "d": 46,
+    "r": 39,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-17",
+    "sample": null,
+    "d": 41,
+    "r": 36,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Echelon Insights",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-17",
+    "sample": null,
+    "d": 50,
+    "r": 45,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-24",
+    "sample": null,
+    "d": 46,
+    "r": 40,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-24",
+    "sample": null,
+    "d": 41,
+    "r": 35,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Rasmussen Reports",
+    "start_date": "2026-08-23",
+    "end_date": "2026-08-27",
+    "sample": null,
+    "d": 41,
+    "r": 36,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Quantus Insights",
+    "start_date": "2026-08-26",
+    "end_date": "2026-08-28",
+    "sample": null,
+    "d": 50,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-08-28",
+    "end_date": "2026-08-30",
+    "sample": null,
+    "d": 47,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Harvard-Harris",
+    "start_date": "2026-08-28",
+    "end_date": "2026-08-30",
+    "sample": null,
+    "d": 49,
+    "r": 51,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-08-28",
+    "end_date": "2026-08-31",
+    "sample": null,
+    "d": 46,
+    "r": 40,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-08-28",
+    "end_date": "2026-08-31",
+    "sample": null,
+    "d": 43,
+    "r": 38,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Cygnal",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-02",
+    "sample": null,
+    "d": 51,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Financial Times",
+    "start_date": "2026-08-28",
+    "end_date": "2026-09-02",
+    "sample": null,
+    "d": 52,
+    "r": 45,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Quinnipiac",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-06",
+    "sample": null,
+    "d": 49,
+    "r": 38,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-08-31",
+    "end_date": "2026-09-06",
+    "sample": null,
+    "d": 46,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-08",
+    "sample": null,
+    "d": 49,
+    "r": 38,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Rasmussen Reports",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-09",
+    "sample": null,
+    "d": 47,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Marquette",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-09",
+    "sample": "581 LV",
+    "d": 54,
+    "r": 41,
+    "url": "https://today.marquette.edu/2026/09/new-marquette-law-school-national-survey-finds-democrats-expand-lead-on-congressional-ballots-trump-approval-declines/"
+   },
+   {
+    "pollster": "Marquette (RV)",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-09",
+    "sample": "864 RV",
+    "d": 50,
+    "r": 42,
+    "url": "https://today.marquette.edu/2026/09/new-marquette-law-school-national-survey-finds-democrats-expand-lead-on-congressional-ballots-trump-approval-declines/"
+   },
+   {
+    "pollster": "CBS News",
+    "start_date": "2026-09-08",
+    "end_date": "2026-09-11",
+    "sample": null,
+    "d": 54,
+    "r": 46,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-13",
+    "sample": null,
+    "d": 49,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "NY Times/Siena",
+    "start_date": "2026-09-08",
+    "end_date": "2026-09-13",
+    "sample": null,
+    "d": 51,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "FOX News",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-14",
+    "sample": "1,211 RV",
+    "d": 51,
+    "r": 44,
+    "url": "https://www.foxnews.com/politics/fox-news-poll-squeezed-costs-frustrated-voters-turn-democrats"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-14",
+    "sample": null,
+    "d": 51,
+    "r": 39,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-14",
+    "sample": null,
+    "d": 44,
+    "r": 37,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "NPR/PBS/Marist",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-15",
+    "sample": "1,280 RV",
+    "d": 53,
+    "r": 41,
+    "url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-september-2026/"
+   },
+   {
+    "pollster": "Big Data Poll",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-15",
+    "sample": null,
+    "d": 51,
+    "r": 39,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "NBC News",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-15",
+    "sample": null,
+    "d": 50,
+    "r": 45,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "RMG Research",
+    "start_date": "2026-09-08",
+    "end_date": "2026-09-15",
+    "sample": null,
+    "d": 52,
+    "r": 46,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Rasmussen Reports",
+    "start_date": "2026-09-10",
+    "end_date": "2026-09-16",
+    "sample": null,
+    "d": 49,
+    "r": 41,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "CNN",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-17",
+    "sample": null,
+    "d": 49,
+    "r": 41,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Quantus Insights",
+    "start_date": "2026-09-15",
+    "end_date": "2026-09-18",
+    "sample": null,
+    "d": 50,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-09-18",
+    "end_date": "2026-09-20",
+    "sample": null,
+    "d": 50,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-09-17",
+    "end_date": "2026-09-20",
+    "sample": null,
+    "d": 43,
+    "r": 35,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-09-18",
+    "end_date": "2026-09-21",
+    "sample": null,
+    "d": 52,
+    "r": 38,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Echelon Insights",
+    "start_date": "2026-09-17",
+    "end_date": "2026-09-21",
+    "sample": null,
+    "d": 51,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Wall Street Journal",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-21",
+    "sample": null,
+    "d": 50,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Verasight/Strength In Numbers (RV)",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-21",
+    "sample": "RV subset of 1,528 A",
+    "d": 50,
+    "r": 42,
+    "url": "https://www.gelliottmorris.com/p/2026-09-23-september-strength-in-numbers-verasight-poll-release"
+   },
+   {
+    "pollster": "Emerson",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-22",
+    "sample": "1,000 LV",
+    "d": 53,
+    "r": 42,
+    "url": "https://emersoncollegepolling.com/september-2026-national-poll-democrats/"
+   },
+   {
+    "pollster": "Rasmussen Reports",
+    "start_date": "2026-09-17",
+    "end_date": "2026-09-23",
+    "sample": null,
+    "d": 48,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Rasmussen Reports",
+    "start_date": "2026-09-24",
+    "end_date": "2026-09-27",
+    "sample": null,
+    "d": 47,
+    "r": 44,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Quinnipiac",
+    "start_date": "2026-09-24",
+    "end_date": "2026-09-27",
+    "sample": "1,032 RV",
+    "d": 51,
+    "r": 39,
+    "url": "https://poll.qu.edu/poll-release?releaseid=3968"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-09-25",
+    "end_date": "2026-09-27",
+    "sample": null,
+    "d": 50,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Harvard-Harris",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-28",
+    "sample": null,
+    "d": 51,
+    "r": 49,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-09-25",
+    "end_date": "2026-09-28",
+    "sample": null,
+    "d": 53,
+    "r": 38,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Harvard CAPS/Harris",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-28",
+    "sample": "LV subset of 2200 RV",
+    "d": 51,
+    "r": 49,
+    "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Sep2026_KeyResults.pdf"
+   },
+   {
+    "pollster": "Centerline Research & Strategy",
+    "start_date": "2026-09-26",
+    "end_date": "2026-10-01",
+    "sample": "930 LV",
+    "d": 50,
+    "r": 42,
+    "url": "https://centerliners.com/assets/polls/centerline-national-poll-release-100626.pdf"
+   },
+   {
+    "pollster": "CBS News",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-02",
+    "sample": null,
+    "d": 54,
+    "r": 45,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Cygnal",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-02",
+    "sample": "1500 LV",
+    "d": 52,
+    "r": 43,
+    "url": "https://www.cygn.al/wp-content/uploads/2026/10/24822-Cygnal-National-Early-Oct26-NVT-Deck-Midterm-Political.pdf"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-04",
+    "sample": null,
+    "d": 50,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Pew Research",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "sample": "3,917 RV",
+    "d": 44,
+    "r": 36,
+    "url": "https://www.pewresearch.org/politics/2026/10/08/with-americans-in-a-sour-mood-democratic-voters-are-more-engaged-in-midterms/"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-05",
+    "sample": null,
+    "d": 44,
+    "r": 37,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-05",
+    "sample": "1173 LV (loose screen)",
+    "d": 51,
+    "r": 40,
+    "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_703uvs1.pdf"
+   },
+   {
+    "pollster": "Financial Times",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-06",
+    "sample": null,
+    "d": 52,
+    "r": 44,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "THP/MM",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-06",
+    "sample": null,
+    "d": 54,
+    "r": 42,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Rasmussen Reports",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-07",
+    "sample": null,
+    "d": 49,
+    "r": 44,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "NewsNation/DDHQ (TrueDot.ai)",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-09",
+    "sample": "974 LV",
+    "d": 49,
+    "r": 42,
+    "url": "https://www.breitbart.com/politics/2026/10/13/poll-democrats-lead-republicans-on-generic-congressional-ballot-by-7-points/"
+   },
+   {
+    "pollster": "Cygnal",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-10",
+    "sample": "1500 LV",
+    "d": 51,
+    "r": 42,
+    "url": "https://www.cygn.al/wp-content/uploads/2026/10/Cygnal-National-Poll-on-Foreign-Conflicts-Oct-2026.pdf"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "sample": null,
+    "d": 50,
+    "r": 43,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   }
+  ],
+  "generic_avg": [
+   {
+    "source": "DDHQ",
+    "date": "2026-07-17",
+    "d": 46,
+    "r": 43,
+    "margin": 3,
+    "url": "https://decisiondeskhq.substack.com/p/where-the-polls-stand-as-decision"
+   },
+   {
+    "source": "RCP",
+    "date": "2026-07-29",
+    "d": 48.4,
+    "r": 42.4,
+    "margin": 6.0,
+    "url": "https://www.campaignnow.com/blog/democrats-hold-a-six-point-lead-in-the-2026-realclearpolitics-generic-ballot-average"
+   },
+   {
+    "source": "DDHQ",
+    "date": "2026-08-14",
+    "d": 47,
+    "r": 41,
+    "margin": 6,
+    "url": "https://decisiondeskhq.substack.com/p/democrats-generic-ballot-august-2026-midterms-house-senate"
+   },
+   {
+    "source": "DDHQ",
+    "date": "2026-08-22",
+    "d": 46,
+    "r": 40,
+    "margin": 6,
+    "url": "https://decisiondeskhq.substack.com/p/el-sayed-rogers-michigan-senate-trump-approval-generic-ballot-2026-midterms"
+   },
+   {
+    "source": "DDHQ",
+    "date": "2026-08-28",
+    "d": 46,
+    "r": 40,
+    "margin": 6,
+    "url": "https://decisiondeskhq.substack.com/p/the-race-for-the-senate-is-a-toss"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-09-01",
+    "d": 48.3,
+    "r": 41.6,
+    "margin": 6.7,
+    "url": "https://www.forbes.com/sites/saradorn/2026/10/04/hottest-2026-midterm-races-democrats-lead-in-texas-ohio-alaska-senate-races-updated-daily/"
+   },
+   {
+    "source": "RCP",
+    "date": "2026-09-02",
+    "d": null,
+    "r": null,
+    "margin": 6.4,
+    "url": "https://www.realclearpolitics.com/video/2026/09/02/rcp_polling_minute_senate_midterm_map_shifts_as_new_hampshire_becomes_toss-up.html"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-09-08",
+    "d": null,
+    "r": null,
+    "margin": 6.6,
+    "url": "https://www.natesilver.net/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+   },
+   {
+    "source": "RCP",
+    "date": "2026-09-10",
+    "d": null,
+    "r": null,
+    "margin": 5.8,
+    "url": "https://www.realclearpolitics.com/video/2026/09/10/rcp_polling_minute_a_closer_look_at_thesenate_toss-ups.html"
+   },
+   {
+    "source": "Ballotpedia",
+    "date": "2026-09-30",
+    "d": 50,
+    "r": 43,
+    "margin": 7,
+    "url": "https://news.ballotpedia.org/2026/10/01/trump-saw-lowest-average-approval-rating-of-his-second-term-in-september/"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-10-04",
+    "d": 50,
+    "r": 41.1,
+    "margin": 8.9,
+    "url": "https://www.forbes.com/sites/saradorn/2026/10/04/hottest-2026-midterm-races-democrats-lead-in-texas-ohio-alaska-senate-races-updated-daily/"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-10-05",
+    "d": null,
+    "r": null,
+    "margin": 8.9,
+    "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+   },
+   {
+    "source": "RCP",
+    "date": "2026-10-05",
+    "d": 50.4,
+    "r": 42.2,
+    "margin": 8.2,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "source": "RealClearPolitics",
+    "date": "2026-10-05",
+    "d": 50.4,
+    "r": 42.5,
+    "margin": 7.9,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "source": "Silver Bulletin (likely-voter adjusted)",
+    "date": "2026-10-05",
+    "d": null,
+    "r": null,
+    "margin": 9.6,
+    "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+   },
+   {
+    "source": "DDHQ",
+    "date": "2026-10-06",
+    "d": 48.6,
+    "r": 41.7,
+    "margin": 6.9,
+    "url": "https://votes.decisiondeskhq.com/polls/generic-ballot/national"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-06",
+    "d": 51.1,
+    "r": 43.4,
+    "margin": 7.7,
+    "url": "https://fiftyplusone.news/polls/generic-ballot"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-10-07",
+    "d": null,
+    "r": null,
+    "margin": 8.9,
+    "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-08",
+    "d": 51.2,
+    "r": 43.4,
+    "margin": 7.8,
+    "url": "https://fiftyplusone.news/polls/generic-ballot/generic-ballot"
+   },
+   {
+    "source": "RealClearPolitics",
+    "date": "2026-10-11",
+    "d": 50.4,
+    "r": 42.1,
+    "margin": 8.3,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-10-12",
+    "d": null,
+    "r": null,
+    "margin": 8.8,
+    "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-13",
+    "d": 50.9,
+    "r": 43.2,
+    "margin": 7.7,
+    "url": "https://fiftyplusone.news/polls/generic-ballot/generic-ballot"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-10-13",
+    "d": null,
+    "r": null,
+    "margin": 8.8,
+    "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+   },
+   {
+    "source": "RealClearPolitics",
+    "date": "2026-10-14",
+    "d": 50.2,
+    "r": 41.9,
+    "margin": 8.3,
+    "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-14",
+    "d": 51.0,
+    "r": 43.2,
+    "margin": 7.8,
+    "url": "https://fiftyplusone.news/polls/generic-ballot/generic-ballot"
+   }
+  ],
+  "approval_polls": [
+   {
+    "pollster": "Public Sentiment Institute",
+    "start_date": null,
+    "end_date": "2026-07-02",
+    "sample": "979 LV",
+    "approve": 40.8,
+    "disapprove": 57.8,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Scripps News",
+    "start_date": null,
+    "end_date": "2026-07-02",
+    "sample": "2,000 RV",
+    "approve": 45,
+    "disapprove": 46,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Zogby Analytics",
+    "start_date": null,
+    "end_date": "2026-07-04",
+    "sample": "1,003 LV",
+    "approve": 41.5,
+    "disapprove": 57.1,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": null,
+    "end_date": "2026-07-06",
+    "sample": "1,603 A",
+    "approve": 35,
+    "disapprove": 61,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Manhattan Institute (R)",
+    "start_date": null,
+    "end_date": "2026-07-06",
+    "sample": "493 LV",
+    "approve": 44,
+    "disapprove": 54,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "HarrisX",
+    "start_date": null,
+    "end_date": "2026-07-07",
+    "sample": "1,008 RV",
+    "approve": 43,
+    "disapprove": 54,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Quantus Insights (R)",
+    "start_date": "2026-07-03",
+    "end_date": "2026-07-07",
+    "sample": "1,140 LV",
+    "approve": 43.3,
+    "disapprove": 54.5,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "HarrisX",
+    "start_date": null,
+    "end_date": "2026-07-10",
+    "sample": "1,019 RV",
+    "approve": 42,
+    "disapprove": 56,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Harvard CAPS/Harris (HarrisX)",
+    "start_date": null,
+    "end_date": "2026-07-12",
+    "sample": "1,776 RV",
+    "approve": 42,
+    "disapprove": 54,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Hart Research (D)",
+    "start_date": null,
+    "end_date": "2026-07-12",
+    "sample": "1,000 RV",
+    "approve": 40,
+    "disapprove": 59,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Pew Research Center",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-12",
+    "sample": "3,554 A",
+    "approve": 34,
+    "disapprove": 64,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "pollster": "CNBC",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-12",
+    "sample": "1,000 V",
+    "approve": 40,
+    "disapprove": 59,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "pollster": "Echelon Insights (R)",
+    "start_date": null,
+    "end_date": "2026-07-13",
+    "sample": "1,004 LV",
+    "approve": 38,
+    "disapprove": 61,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": null,
+    "end_date": "2026-07-13",
+    "sample": "2,200 RV",
+    "approve": 45,
+    "disapprove": 52,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": null,
+    "end_date": "2026-07-13",
+    "sample": "1,616 A",
+    "approve": 37,
+    "disapprove": 59,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Washington Post/Ipsos",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-13",
+    "sample": "2,648 A",
+    "approve": 37,
+    "disapprove": 61,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "pollster": "AlphaROC",
+    "start_date": null,
+    "end_date": "2026-07-14",
+    "sample": "1,000 A",
+    "approve": 38.5,
+    "disapprove": 57.4,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "RMG Research/Napolitan News",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-14",
+    "sample": "2,000 RV",
+    "approve": 44,
+    "disapprove": 53,
+    "url": "https://data.ddhq.io/polls/2026/07/17/RMG-Research/Napolitan-News-Service-National-2026-07-06-2026-07-14"
+   },
+   {
+    "pollster": "Change Research (D)",
+    "start_date": null,
+    "end_date": "2026-07-17",
+    "sample": "2,006 RV",
+    "approve": 40,
+    "disapprove": 58,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Verasight/Strength In Numbers",
+    "start_date": "2026-07-14",
+    "end_date": "2026-07-17",
+    "sample": "1,514 A",
+    "approve": 38,
+    "disapprove": 59,
+    "url": "https://data.ddhq.io/polls/2026/07/21/Verasight/Strength-in-Numbers-National-2026-07-14-2026-07-17"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": null,
+    "end_date": "2026-07-19",
+    "sample": "2,200 RV",
+    "approve": 44,
+    "disapprove": 53,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Survey 160",
+    "start_date": null,
+    "end_date": "2026-07-20",
+    "sample": "1,518 RV",
+    "approve": 37,
+    "disapprove": 62,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "J.L. Partners (R)",
+    "start_date": null,
+    "end_date": "2026-07-20",
+    "sample": "1,021 RV",
+    "approve": 40,
+    "disapprove": 51,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "American Research Group",
+    "start_date": null,
+    "end_date": "2026-07-20",
+    "sample": "1,100 A",
+    "approve": 30,
+    "disapprove": 67,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "sample": "1,602 A",
+    "approve": 36,
+    "disapprove": 60,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Fox News (Beacon/Shaw)",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "sample": "1,003 RV",
+    "approve": 39,
+    "disapprove": 61,
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/fox_july-17-20-2026_national_topline_july-23-release.pdf"
+   },
+   {
+    "pollster": "Emerson",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-20",
+    "sample": "1,100 LV",
+    "approve": 39,
+    "disapprove": 57,
+    "url": "https://emersoncollegepolling.com/july-2026-national-poll-democrats-with-11-point-generic-ballot-advantage/"
+   },
+   {
+    "pollster": "RMG Research",
+    "start_date": null,
+    "end_date": "2026-07-21",
+    "sample": "3,000 RV",
+    "approve": 46,
+    "disapprove": 52,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "Clarity Campaign Labs (D)",
+    "start_date": null,
+    "end_date": "2026-07-22",
+    "sample": "1,000 LV",
+    "approve": 42,
+    "disapprove": 58,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "CBS News/YouGov",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-24",
+    "sample": "2,193 A",
+    "approve": 39,
+    "disapprove": 61,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": null,
+    "end_date": "2026-07-26",
+    "sample": null,
+    "approve": 45,
+    "disapprove": 52,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "The Argument",
+    "start_date": null,
+    "end_date": "2026-07-26",
+    "sample": "3,000 RV",
+    "approve": 39,
+    "disapprove": 59,
+    "url": "https://www.pollsmax.com/approval/trump/"
+   },
+   {
+    "pollster": "CNN/SSRS",
+    "start_date": "2026-07-23",
+    "end_date": "2026-07-27",
+    "sample": "1,225 A",
+    "approve": 34,
+    "disapprove": 66,
+    "url": "https://static.poder360.com.br/uploads/2026/07/Pesquisa_CNN_aprovacao_Trump_julho_2026.pdf"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-27",
+    "sample": "1,559 A",
+    "approve": 34,
+    "disapprove": 62,
+    "url": "https://opiniontoday.substack.com/p/260729"
+   },
+   {
+    "pollster": "Marquette Law School",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-29",
+    "sample": null,
+    "approve": 40,
+    "disapprove": 60,
+    "url": "https://today.marquette.edu/2026/09/new-marquette-law-school-national-survey-finds-democrats-expand-lead-on-congressional-ballots-trump-approval-declines/"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-10",
+    "sample": null,
+    "approve": 33,
+    "disapprove": 62,
+    "url": "https://yougov.com/en-us/articles/55344-donald-trumps-job-approval-falls-to-33"
+   },
+   {
+    "pollster": "Financial Times/Focaldata",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-10",
+    "sample": "1,913 RV",
+    "approve": 35,
+    "disapprove": 55,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "pollster": "Echelon Insights",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-17",
+    "sample": null,
+    "approve": 40,
+    "disapprove": 59,
+    "url": "https://echeloninsights.com/insights/august-2026-verified-voter-omnibus"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-17",
+    "sample": "1,166 A",
+    "approve": 33,
+    "disapprove": 64,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "pollster": "Emerson",
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-17",
+    "sample": "1,000 LV",
+    "approve": 40,
+    "disapprove": 56,
+    "url": "https://emersoncollegepolling.com/august-2026-national-poll/"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-24",
+    "sample": "1,215 A",
+    "approve": 33,
+    "disapprove": 65,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "pollster": "UMass Amherst",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-26",
+    "sample": "1,000",
+    "approve": 32,
+    "disapprove": 64,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "pollster": "Harvard CAPS/Harris",
+    "start_date": "2026-08-28",
+    "end_date": "2026-08-30",
+    "sample": "2,100 RV",
+    "approve": 44,
+    "disapprove": 52,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "pollster": "Marquette Law School",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-09",
+    "sample": "1,023 A",
+    "approve": 37,
+    "disapprove": 63,
+    "url": "https://today.marquette.edu/2026/09/new-marquette-law-school-national-survey-finds-democrats-expand-lead-on-congressional-ballots-trump-approval-declines/"
+   },
+   {
+    "pollster": "NY Times/Siena",
+    "start_date": "2026-09-08",
+    "end_date": "2026-09-13",
+    "sample": null,
+    "approve": 38,
+    "disapprove": 59,
+    "url": "https://voz.us/en/politics/260916/39123/new-warning-sign-for-trump-democrats-widen-their-lead-in-the-generic-ballot-and-on-key-issues.html"
+   },
+   {
+    "pollster": "Fox News (Beacon/Shaw)",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-14",
+    "sample": "1,211 RV",
+    "approve": 39,
+    "disapprove": 61,
+    "url": "https://www.foxnews.com/politics/fox-news-poll-squeezed-costs-frustrated-voters-turn-democrats"
+   },
+   {
+    "pollster": "NPR/PBS/Marist",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-15",
+    "sample": "1,280 RV",
+    "approve": 39,
+    "disapprove": 59,
+    "url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-september-2026/"
+   },
+   {
+    "pollster": "CNN/SSRS",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-17",
+    "sample": "1,206 A",
+    "approve": 33,
+    "disapprove": 67,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/24/trumps-approval-rating-hits-low-in-third-poll-this-week/"
+   },
+   {
+    "pollster": "Verasight/Strength In Numbers",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-21",
+    "sample": "1,528 A",
+    "approve": 33,
+    "disapprove": 63,
+    "url": "https://www.gelliottmorris.com/p/2026-09-23-september-strength-in-numbers-verasight-poll-release"
+   },
+   {
+    "pollster": "Echelon Insights",
+    "start_date": "2026-09-17",
+    "end_date": "2026-09-21",
+    "sample": null,
+    "approve": 36,
+    "disapprove": 64,
+    "url": "https://echeloninsights.com/insights/september-2026-verified-voter-omnibus"
+   },
+   {
+    "pollster": "Emerson",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-22",
+    "sample": "1,000 LV",
+    "approve": 39,
+    "disapprove": 58,
+    "url": "https://emersoncollegepolling.com/september-2026-national-poll-democrats/"
+   },
+   {
+    "pollster": "Quinnipiac",
+    "start_date": "2026-09-24",
+    "end_date": "2026-09-27",
+    "sample": "1,032 RV",
+    "approve": 34,
+    "disapprove": 61,
+    "url": "https://poll.qu.edu/poll-release?releaseid=3968"
+   },
+   {
+    "pollster": "AP-NORC",
+    "start_date": "2026-09-24",
+    "end_date": "2026-09-28",
+    "sample": "2,140 A",
+    "approve": 31,
+    "disapprove": 69,
+    "url": "https://www.newsweek.com/donald-trump-approval-rating-record-low-midterm-elections-12512645"
+   },
+   {
+    "pollster": "Harvard CAPS/Harris",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-28",
+    "sample": "2200 RV",
+    "approve": 42,
+    "disapprove": 55,
+    "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Sep2026_KeyResults.pdf"
+   },
+   {
+    "pollster": "Centerline Research & Strategy",
+    "start_date": "2026-09-26",
+    "end_date": "2026-10-01",
+    "sample": "930 LV",
+    "approve": 38,
+    "disapprove": 62,
+    "url": "https://centerliners.com/assets/polls/centerline-national-poll-release-100626.pdf"
+   },
+   {
+    "pollster": "I&I/TIPP",
+    "start_date": "2026-09-29",
+    "end_date": "2026-10-01",
+    "sample": "1488 A",
+    "approve": 39,
+    "disapprove": 52,
+    "url": "https://issuesinsights.com/2026/10/05/trumps-approval-among-voters-has-stabilized-but-is-that-enough-to-boost-gop-in-midterms-ii-tipp-poll/"
+   },
+   {
+    "pollster": "CBS News/YouGov",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-02",
+    "sample": "2,166 A",
+    "approve": 39,
+    "disapprove": 61,
+    "url": "https://www.forbes.com/sites/saradorn/2026/10/05/trumps-39-approval-rating-below-his-first-term-and-bidens-midterm-ratings/"
+   },
+   {
+    "pollster": "Pew Research",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "sample": "5062 A",
+    "approve": 30,
+    "disapprove": 68,
+    "url": "https://www.pewresearch.org/politics/2026/10/08/with-americans-in-a-sour-mood-democratic-voters-are-more-engaged-in-midterms/"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-05",
+    "sample": "3526 RV",
+    "approve": 36,
+    "disapprove": 64,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-05",
+    "sample": "1381 RV",
+    "approve": 38,
+    "disapprove": 60,
+    "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_703uvs1.pdf"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-05",
+    "sample": "2202 RV",
+    "approve": 41,
+    "disapprove": 57,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "pollster": "Rasmussen Reports",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "sample": "1500 LV",
+    "approve": 42,
+    "disapprove": 58,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "pollster": "Financial Times",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-06",
+    "sample": "2275 LV",
+    "approve": 36,
+    "disapprove": 58,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "pollster": "THP/MM",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-06",
+    "sample": "780 LV",
+    "approve": 44,
+    "disapprove": 56,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "pollster": "RMG Research",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-06",
+    "sample": "2000 RV",
+    "approve": 43,
+    "disapprove": 56,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "pollster": "NewsNation/DDHQ (TrueDot.ai)",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-09",
+    "sample": "974 LV",
+    "approve": 38,
+    "disapprove": 60,
+    "url": "https://www.breitbart.com/politics/2026/10/13/poll-democrats-lead-republicans-on-generic-congressional-ballot-by-7-points/"
+   },
+   {
+    "pollster": "Morning Consult",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "sample": "2204 RV",
+    "approve": 42,
+    "disapprove": 56,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "pollster": "Rasmussen Reports",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-11",
+    "sample": "1500 LV",
+    "approve": 41,
+    "disapprove": 58,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "pollster": "Rasmussen Reports (daily tracking)",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-12",
+    "sample": "1500 LV",
+    "approve": 41,
+    "disapprove": 58,
+    "url": "https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term"
+   }
+  ],
+  "approval_avg": [
+   {
+    "source": "DDHQ",
+    "date": "2026-07-17",
+    "approve": 42,
+    "disapprove": 55,
+    "url": "https://decisiondeskhq.substack.com/p/where-the-polls-stand-as-decision"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-07-30",
+    "approve": 38.2,
+    "disapprove": 58.8,
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/"
+   },
+   {
+    "source": "Ballotpedia",
+    "date": "2026-07-31",
+    "approve": 39,
+    "disapprove": 58,
+    "url": "https://news.ballotpedia.org/2026/08/06/trump-ends-july-with-second-term-low-approval-rating/"
+   },
+   {
+    "source": "DDHQ",
+    "date": "2026-08-14",
+    "approve": 40,
+    "disapprove": 57,
+    "url": "https://decisiondeskhq.substack.com/p/democrats-generic-ballot-august-2026-midterms-house-senate"
+   },
+   {
+    "source": "DDHQ",
+    "date": "2026-08-22",
+    "approve": 39,
+    "disapprove": 58,
+    "url": "https://decisiondeskhq.substack.com/p/el-sayed-rogers-michigan-senate-trump-approval-generic-ballot-2026-midterms"
+   },
+   {
+    "source": "Ballotpedia",
+    "date": "2026-08-31",
+    "approve": 41,
+    "disapprove": 56,
+    "url": "https://news.ballotpedia.org/2026/09/03/trump-ends-august-with-41-approval-rating-congressional-approval-at-16/"
+   },
+   {
+    "source": "Ballotpedia",
+    "date": "2026-09-06",
+    "approve": 41.0,
+    "disapprove": 56.0,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "CNN Poll of Polls",
+    "date": "2026-09-06",
+    "approve": 35.0,
+    "disapprove": 63.0,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "DDHQ",
+    "date": "2026-09-06",
+    "approve": 39.4,
+    "disapprove": 57.1,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-09-06",
+    "approve": 35.9,
+    "disapprove": 59.9,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "Race to the WH",
+    "date": "2026-09-06",
+    "approve": 36.9,
+    "disapprove": 58.7,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "RCP",
+    "date": "2026-09-06",
+    "approve": 39.8,
+    "disapprove": 56.8,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-09-06",
+    "approve": 38.8,
+    "disapprove": 57.5,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "The Economist",
+    "date": "2026-09-06",
+    "approve": 35.0,
+    "disapprove": 61.0,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "NYT",
+    "date": "2026-09-06",
+    "approve": 38.0,
+    "disapprove": 58.0,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "VoteHub",
+    "date": "2026-09-06",
+    "approve": 38.5,
+    "disapprove": 58.4,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "Ballotpedia",
+    "date": "2026-09-30",
+    "approve": 39,
+    "disapprove": 60,
+    "url": "https://news.ballotpedia.org/2026/10/01/trump-saw-lowest-average-approval-rating-of-his-second-term-in-september/"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-06",
+    "approve": 35.0,
+    "disapprove": 61.9,
+    "url": "https://fiftyplusone.news/polls/approval/president"
+   },
+   {
+    "source": "RealClearPolitics",
+    "date": "2026-10-06",
+    "approve": 38.4,
+    "disapprove": 59.5,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-08",
+    "approve": 34.9,
+    "disapprove": 61.9,
+    "url": "https://fiftyplusone.news/polls/approval/president"
+   },
+   {
+    "source": "RealClearPolitics",
+    "date": "2026-10-11",
+    "approve": 38.1,
+    "disapprove": 59.5,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-13",
+    "approve": 34.6,
+    "disapprove": 61.9,
+    "url": "https://fiftyplusone.news/polls/approval/president"
+   },
+   {
+    "source": "RealClearPolitics",
+    "date": "2026-10-14",
+    "approve": 38.4,
+    "disapprove": 59.5,
+    "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   }
+  ]
+ }
+}
