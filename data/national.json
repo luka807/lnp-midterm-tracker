@@ -304,6 +304,154 @@
     "Mid-decade redistricting nets roughly R+10 on paper (TX +5R, FL +4R, OH +2R, NC/MO/AL/TN/LA +1R each vs CA +5D, UT +1D); VA's +4D map was voided May 8. DDHQ estimates the environment erases most of that edge.",
     "Missouri: sources conflict on whether the new map is in effect; reporting from Sept 3–25 says the MO Supreme Court blocked it and the 2022 map is used, with a referendum Nov 3."
    ]
+  },
+  {
+   "observed": "2026-10-20",
+   "generic_ballot": [
+    [
+     "FiftyPlusOne",
+     "D 51.6 – R 43.0 (D+8.6)",
+     "Oct 20"
+    ],
+    [
+     "Silver Bulletin",
+     "D+8.9",
+     "Oct 20"
+    ],
+    [
+     "RealClearPolitics",
+     "D 50.7 – R 42.4 (D+8.3)",
+     "Oct 19"
+    ],
+    [
+     "Decision Desk HQ",
+     "D 50.2 – R 42.4 (D+7.8)",
+     "Oct 13–14"
+    ]
+   ],
+   "generic_polls": [
+    [
+     "Reuters/Ipsos",
+     "Oct 16–19",
+     "1,279 RV",
+     "D+12 (47–35)"
+    ],
+    [
+     "AP-NORC",
+     "Oct 8–12",
+     "925 RV",
+     "D+9 (47–38)"
+    ],
+    [
+     "Economist/YouGov",
+     "Oct 10–12",
+     "1,021 LV",
+     "D+11 (51–40)"
+    ],
+    [
+     "Fox News",
+     "Oct 9–12",
+     "1,202 RV",
+     "D+9 (54–45)"
+    ],
+    [
+     "NBC/SurveyMonkey",
+     "Sep 28–Oct 12",
+     "17,649 RV",
+     "D+10 (55–45)"
+    ]
+   ],
+   "approval": [
+    [
+     "FiftyPlusOne",
+     "34.9 / 62.0",
+     "Oct 20"
+    ],
+    [
+     "RealClearPolitics",
+     "38.8 / 60.1",
+     "Oct 20"
+    ],
+    [
+     "Decision Desk HQ",
+     "38.6 / 59.8",
+     "Oct 20"
+    ],
+    [
+     "Silver Bulletin",
+     "37.1 / 60.2 (net −22.3)",
+     "Oct 20"
+    ]
+   ],
+   "house": [
+    [
+     "Polymarket",
+     "D 91%",
+     "Oct 18–19"
+    ],
+    [
+     "Kalshi",
+     "D 90%",
+     "Oct 18–19"
+    ],
+    [
+     "DDHQ model",
+     "D 77%, ~235 D seats",
+     "Oct 18–19"
+    ],
+    [
+     "Silver Bulletin model",
+     "D ~93%",
+     "~Oct 8"
+    ],
+    [
+     "Cook Political Report",
+     "D +9 to +19 seats",
+     "Oct 9"
+    ]
+   ],
+   "senate": [
+    [
+     "Polymarket",
+     "D 65%",
+     "Oct 18–19"
+    ],
+    [
+     "Kalshi",
+     "D 62%",
+     "Oct 18–19"
+    ],
+    [
+     "DDHQ model",
+     "D 56%, 51 D seats",
+     "Oct 18–19"
+    ],
+    [
+     "Silver Bulletin model",
+     "D ~74–75%",
+     "~Oct 8"
+    ],
+    [
+     "Cook",
+     "Toss-ups: AK, IA, KS, ME, OH, TX",
+     "Oct"
+    ]
+   ],
+   "cook_house": {
+    "Solid D": 185,
+    "Likely D": 16,
+    "Lean D": 12,
+    "Toss Up": 21,
+    "Lean R": 9,
+    "Likely R": 18,
+    "Solid R": 174
+   },
+   "notes": [
+    "Reuters/Ipsos (Oct 16–19): Democrats lead the generic ballot 47–35 (D+12), the widest of the cycle; Trump approval at a record-low 31%.",
+    "Cook House tally per a secondary report (Oct 18): 213 D / 200 R / 21 Toss Up; Sabato 214/201/20; Inside Elections 212/205/18. The Cook category bar still shows the last full breakdown on file.",
+    "Market control odds in this snapshot are from press roundups (Oct 18–19); daily API prices for Oct 15–20 could not be pulled in this refresh.",
+    "House majority = 218; Inside Elections/Cook: Democrats need a net gain of 3."
+   ]
   }
  ],
  "series": {
@@ -1745,6 +1893,60 @@
     "d": 50,
     "r": 43,
     "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-19",
+    "sample": "1279 RV",
+    "d": 47,
+    "r": 35,
+    "url": "https://www.pollsmax.com/approval/generic-ballot/"
+   },
+   {
+    "pollster": "ActiVote",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-14",
+    "sample": "1000 LV",
+    "d": 53.3,
+    "r": 46.7,
+    "url": "https://www.activote.net/polls/generic-ballot/2026-10-14/"
+   },
+   {
+    "pollster": "AP-NORC",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-12",
+    "sample": "925 RV",
+    "d": 47,
+    "r": 38,
+    "url": "https://www.pollsmax.com/approval/generic-ballot/"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-12",
+    "sample": "1021 LV",
+    "d": 51,
+    "r": 40,
+    "url": "https://www.pollsmax.com/approval/generic-ballot/"
+   },
+   {
+    "pollster": "Fox News (Beacon/Shaw)",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-12",
+    "sample": "1202 RV",
+    "d": 54,
+    "r": 45,
+    "url": "https://www.pollsmax.com/approval/generic-ballot/"
+   },
+   {
+    "pollster": "NBC News/SurveyMonkey",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-12",
+    "sample": "17649 RV",
+    "d": 55,
+    "r": 45,
+    "url": "https://www.pollsmax.com/approval/generic-ballot/"
    }
   ],
   "generic_avg": [
@@ -1947,6 +2149,22 @@
     "r": 43.2,
     "margin": 7.8,
     "url": "https://fiftyplusone.news/polls/generic-ballot/generic-ballot"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-20",
+    "d": 51.6,
+    "r": 43.0,
+    "margin": 8.6,
+    "url": "https://fiftyplusone.news/polls/generic-ballot/generic-ballot"
+   },
+   {
+    "source": "RealClearPolitics",
+    "date": "2026-10-19",
+    "d": 50.7,
+    "r": 42.4,
+    "margin": 8.3,
+    "url": "https://www.yahoo.com/news/politics/articles/latest-midterm-polls-election-odds-153705198.html"
    }
   ],
   "approval_polls": [
@@ -2570,6 +2788,60 @@
     "approve": 41,
     "disapprove": 58,
     "url": "https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-19",
+    "sample": "1679 A",
+    "approve": 31,
+    "disapprove": 66,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "Washington Post/ABC News/Ipsos",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-13",
+    "sample": "2545 A",
+    "approve": 33,
+    "disapprove": 66,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "Fox News (Beacon/Shaw)",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-12",
+    "sample": "1202 RV",
+    "approve": 36,
+    "disapprove": 64,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "AP-NORC",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-12",
+    "sample": "1119 A",
+    "approve": 36,
+    "disapprove": 64,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "NBC News/SurveyMonkey",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-12",
+    "sample": "19135 A",
+    "approve": 34,
+    "disapprove": 66,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "Economist/YouGov",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-12",
+    "sample": null,
+    "approve": 34,
+    "disapprove": 62,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
    }
   ],
   "approval_avg": [
@@ -2733,6 +3005,34 @@
     "approve": 38.4,
     "disapprove": 59.5,
     "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-20",
+    "approve": 34.9,
+    "disapprove": 62.0,
+    "url": "https://fiftyplusone.news/polls/approval/president"
+   },
+   {
+    "source": "RealClearPolitics",
+    "date": "2026-10-20",
+    "approve": 38.8,
+    "disapprove": 60.1,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "Decision Desk HQ",
+    "date": "2026-10-20",
+    "approve": 38.6,
+    "disapprove": 59.8,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-10-20",
+    "approve": 37.1,
+    "disapprove": 60.2,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
    }
   ]
  }

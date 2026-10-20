@@ -33,6 +33,13 @@
      "source": "Inside Elections",
      "rating": "Likely R",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Lean R",
+     "as_of": "2026-09-10",
+     "url": "https://www.alreporter.com/2026/09/11/race-rater-narrows-gop-edge-in-alabamas-2nd-congressional-district/"
     }
    ],
    "polls": [
@@ -99,12 +106,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1376918,
+     "opp_coh": 327580,
+     "text": "Figures $1.4M vs Marques $328K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00856237/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "al-02-house-election-winner",
@@ -285,12 +300,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 190431,
+     "opp_coh": 2386653,
+     "text": "Hill $190K vs Begich $2.4M COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00935437/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ak-al-house-election-winner",
@@ -351,12 +374,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1909695,
+     "opp_coh": 116121,
+     "text": "Stanton $1.9M vs Jasser $116K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00657304/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "az-04-house-election-winner",
@@ -399,6 +430,13 @@
      "source": "Inside Elections",
      "rating": "Toss-up",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Lean D",
+     "as_of": "2026-10-20",
+     "url": "https://centerforpolitics.org/crystalball/the-house-28-rating-changes/"
     }
    ],
    "polls": [
@@ -422,12 +460,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1530010,
+     "opp_coh": 926834,
+     "text": "Mendoza $1.5M vs Ciscomani $927K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00897090/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "az-06-house-election-winner",
@@ -477,6 +523,13 @@
      "source": "Inside Elections",
      "rating": "Tilt D",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Likely D",
+     "as_of": "2026-10-20",
+     "url": "https://centerforpolitics.org/crystalball/the-house-28-rating-changes/"
     }
    ],
    "polls": [],
@@ -488,12 +541,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1203302,
+     "opp_coh": 680705,
+     "text": "Gray $1.2M vs Lincoln $681K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00801431/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ca-13-house-election-winner",
@@ -554,12 +615,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1653438,
+     "opp_coh": 26690,
+     "text": "Bera $1.7M vs Tucker $27K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00461061/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ca-03-house-election-winner",
@@ -628,12 +697,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 3247643,
+     "opp_coh": 295807,
+     "text": "Tran $3.2M vs Vo $296K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00851790/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ca-45-house-election-winner",
@@ -689,12 +766,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2268895,
+     "opp_coh": 167850,
+     "text": "Whitesides $2.3M vs Gibbs $168K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00834028/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-13",
+   "updated": "2026-10-20",
    "market_ids": {
     "kalshi": {
      "event": "HOUSECA27-26",
@@ -737,12 +822,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 229690,
+     "opp_coh": null,
+     "text": "Cisneros $230K COH (9/30); Ching had no 9/30 figure on FEC ($10K COH as of 10/14)",
+     "url": "https://www.fec.gov/data/committee/C00850420/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ca-31-house-election-winner",
@@ -784,12 +877,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 4759245,
+     "opp_coh": 7492,
+     "text": "Harder $4.8M vs McBride $7K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00639146/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ca-09-house-election-winner",
@@ -838,12 +939,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2230186,
+     "opp_coh": 3530,
+     "text": "Liccardo $2.2M vs Soule $4K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00858688/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ca-16-house-election-winner",
@@ -897,12 +1006,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1193472,
+     "opp_coh": 11708,
+     "text": "Pettersen $1.2M vs Bennett $12K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00637215/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "co-07-house-election-winner",
@@ -956,12 +1073,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2884079,
+     "opp_coh": null,
+     "text": "Crow $2.9M COH (9/30); Clark has no FEC financial data on file",
+     "url": "https://www.fec.gov/data/committee/C00637363/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "co-06-house-election-winner",
@@ -1015,12 +1140,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 3220255,
+     "opp_coh": null,
+     "text": "Neguse $3.2M COH (9/30); Dennison has no FEC financial data on file",
+     "url": "https://www.fec.gov/data/committee/C00648253/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "co-02-house-election-winner",
@@ -1074,12 +1207,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2429142,
+     "opp_coh": 25509,
+     "text": "Himes $2.4M vs Goldstein $26K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00434191/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ct-04-house-election-winner",
@@ -1133,12 +1274,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 357302,
+     "opp_coh": 307,
+     "text": "Bronin $357K vs Chai $307 COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00913897/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ct-01-house-election-winner",
@@ -1230,11 +1379,20 @@
     }
    ],
    "markets": [],
-   "finance": [],
+   "finance": [
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1096996,
+     "opp_coh": 80040,
+     "text": "Dandiya $1.1M vs Askar $80K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00906883/?cycle=2026"
+    }
+   ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "fl-22-house-election-winner",
@@ -1288,12 +1446,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 653820,
+     "opp_coh": null,
+     "text": "McBath $654K COH (9/30); Martin's latest FEC report is 3/31 ($100 COH)",
+     "url": "https://www.fec.gov/data/committee/C00672295/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ga-06-house-election-winner",
@@ -1347,12 +1513,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1342978,
+     "opp_coh": 51281,
+     "text": "Sorensen $1.3M vs Vancil $51K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00793935/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "il-17-house-election-winner",
@@ -1413,12 +1587,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1178245,
+     "opp_coh": 41693,
+     "text": "Underwood $1.2M vs Marter $42K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00652719/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "il-14-house-election-winner",
@@ -1472,12 +1654,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2904528,
+     "opp_coh": 24877,
+     "text": "Budzinski $2.9M vs Wilson $25K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00787812/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "il-13-house-election-winner",
@@ -1531,12 +1721,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1240181,
+     "opp_coh": 17956,
+     "text": "Casten $1.2M vs Conforti $18K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00648493/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "il-06-house-election-winner",
@@ -1625,12 +1823,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 3008450,
+     "opp_coh": 2607710,
+     "text": "Bohannan $3.0M vs Miller-Meeks $2.6M COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00787820/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ia-01-house-election-winner",
@@ -1719,12 +1925,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1976870,
+     "opp_coh": 1419455,
+     "text": "Trone Garriott $2.0M vs Nunn $1.4M COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00904086/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ia-03-house-election-winner",
@@ -1785,12 +1999,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1825456,
+     "opp_coh": 22252,
+     "text": "Davids $1.8M vs Jenkins $22K COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00670034/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ks-03-house-election-winner",
@@ -1844,12 +2066,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 72923,
+     "opp_coh": 671,
+     "text": "McClain Delaney $73K vs Ficker $671 COH (9/30)",
+     "url": "https://www.fec.gov/data/committee/C00854471/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "md-06-house-election-winner",
@@ -1903,12 +2133,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 999275,
+     "opp_coh": 215471,
+     "text": "$999K vs $215K COH (9/30)",
+     "url": "https://www.fec.gov/data/elections/house/MA/06/2026/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ma-06-house-election-winner",
@@ -1962,12 +2200,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 7453613,
+     "opp_coh": 147,
+     "text": "$7.5M vs $147 COH (9/30)",
+     "url": "https://www.fec.gov/data/elections/house/MA/04/2026/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ma-04-house-election-winner",
@@ -2021,12 +2267,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1787900,
+     "opp_coh": 6601,
+     "text": "$1.8M vs $7K COH (9/30)",
+     "url": "https://www.fec.gov/data/elections/house/MA/03/2026/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ma-03-house-election-winner",
@@ -2080,12 +2334,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1518401,
+     "opp_coh": 115133,
+     "text": "$1.5M vs $115K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "mi-03-house-election-winner",
@@ -2146,12 +2408,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 3209408,
+     "opp_coh": 238261,
+     "text": "$3.2M vs $238K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "mi-08-house-election-winner",
@@ -2247,12 +2517,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1320321,
+     "opp_coh": 1856767,
+     "text": "$1.3M vs $1.9M COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "mi-04-house-election-winner",
@@ -2302,6 +2580,20 @@
      "source": "Inside Elections",
      "rating": "Likely R",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Cook",
+     "rating": "Lean R",
+     "as_of": "2026-10-16",
+     "url": "https://www.newsweek.com/map-shows-gop-house-seats-shifting-toward-democrats-in-past-week-midterm-election-12580914"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Lean R",
+     "as_of": "2026-10-20",
+     "url": "https://sabatoscrystalball.substack.com/p/the-house-28-rating-changes-push"
     }
    ],
    "polls": [
@@ -2361,12 +2653,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1024360,
+     "opp_coh": 1110449,
+     "text": "$1.0M vs $1.1M COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "mn-01-house-election-winner",
@@ -2420,12 +2720,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 444399,
+     "opp_coh": null,
+     "text": "$444K COH (9/30); Berry has no FEC financial report this cycle",
+     "url": "https://www.fec.gov/data/elections/house/MO/01/2026/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "mo-01-house-election-winner",
@@ -2479,12 +2787,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1176289,
+     "opp_coh": 78763,
+     "text": "$1.2M vs $79K COH (9/30)",
+     "url": "https://www.fec.gov/data/elections/house/NV/04/2026/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nv-04-house-election-winner",
@@ -2542,6 +2858,13 @@
      "as_of": "2026-10-09",
      "previous": "Lean D",
      "url": "https://www.cookpolitical.com/analysis/house/house-overview/eighteen-more-house-race-ratings-move-democrats-favor"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Likely D",
+     "as_of": "2026-10-20",
+     "url": "https://sabatoscrystalball.substack.com/p/the-house-28-rating-changes-push"
     }
    ],
    "polls": [],
@@ -2553,12 +2876,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1305318,
+     "opp_coh": 444918,
+     "text": "$1.3M vs $445K COH (9/30)",
+     "url": "https://www.fec.gov/data/candidate/H6NV04020/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nv-03-house-election-winner",
@@ -2612,11 +2943,20 @@
     }
    ],
    "markets": [],
-   "finance": [],
+   "finance": [
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2419218,
+     "opp_coh": 662646,
+     "text": "$2.4M vs $663K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire"
+    }
+   ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nh-02-house-election-winner",
@@ -2659,6 +2999,13 @@
      "source": "Inside Elections",
      "rating": "Lean D",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Likely D",
+     "as_of": "2026-10-20",
+     "url": "https://sabatoscrystalball.substack.com/p/the-house-28-rating-changes-push"
     }
    ],
    "polls": [
@@ -2675,11 +3022,20 @@
     }
    ],
    "markets": [],
-   "finance": [],
+   "finance": [
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 429260,
+     "opp_coh": 596218,
+     "text": "$429K vs $596K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire"
+    }
+   ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nh-01-house-election-winner",
@@ -2740,12 +3096,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 13387136,
+     "opp_coh": 9054,
+     "text": "$13.4M vs $9K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nj-05-house-election-winner",
@@ -2825,12 +3189,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2286695,
+     "opp_coh": 1729652,
+     "text": "$2.3M vs $1.7M COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nj-07-house-election-winner",
@@ -2900,6 +3272,24 @@
      "text": "SurveyUSA for KOB 4 Aug 28–Sep 2 (554 LV): Vasquez 46, Cunningham 43",
      "url": "https://www.kob.com/new-mexico/kob-poll-shows-tight-race-for-new-mexicos-2nd-congressional-district/",
      "date": "2026-09-02"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Research & Polling",
+     "sponsor": "Albuquerque Journal",
+     "sponsor_lean": null,
+     "start_date": "2026-10-01",
+     "end_date": "2026-10-09",
+     "release_date": "2026-10-12",
+     "date": "2026-10-09",
+     "sample": "383 LV",
+     "population": "LV",
+     "cand_pct": 48,
+     "opp_name": "Cunningham",
+     "opp_pct": 44,
+     "others": null,
+     "text": "Research & Polling/Albuquerque Journal Oct 1-9 (383 LV): Vasquez 48, Cunningham 44",
+     "url": "https://www.abqjournal.com/news/journal-poll-gabe-vasquez-leads-greg-cunningham-in-competitive-house-election/3139738"
     }
    ],
    "markets": [],
@@ -2910,12 +3300,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 643617,
+     "opp_coh": 726563,
+     "text": "$644K vs $727K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nm-02-house-election-winner",
@@ -3049,12 +3447,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1168964,
+     "opp_coh": 2853547,
+     "text": "$1.2M vs $2.9M COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ny-17-house-election-winner",
@@ -3108,11 +3514,20 @@
    ],
    "polls": [],
    "markets": [],
-   "finance": [],
+   "finance": [
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 4396060,
+     "opp_coh": null,
+     "text": "$4.4M COH (9/30); Mizrahi has no FEC financial report this cycle",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+    }
+   ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ny-08-house-election-winner",
@@ -3155,6 +3570,13 @@
      "source": "Inside Elections",
      "rating": "Likely D",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Inside Elections",
+     "rating": "Solid D",
+     "as_of": "2026-10-15",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
     }
    ],
    "polls": [],
@@ -3166,12 +3588,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2164517,
+     "opp_coh": 43430,
+     "text": "$2.2M vs $43K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ny-19-house-election-winner",
@@ -3229,6 +3659,13 @@
      "as_of": "2026-10-09",
      "previous": "Lean D",
      "url": "https://www.cookpolitical.com/analysis/house/house-overview/eighteen-more-house-race-ratings-move-democrats-favor"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Likely D",
+     "as_of": "2026-10-20",
+     "url": "https://sabatoscrystalball.substack.com/p/the-house-28-rating-changes-push"
     }
    ],
    "polls": [
@@ -3252,12 +3689,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 3940920,
+     "opp_coh": 270884,
+     "text": "$3.9M vs $271K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ny-04-house-election-winner",
@@ -3323,12 +3768,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2682522,
+     "opp_coh": 49704,
+     "text": "$2.7M vs $50K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ny-18-house-election-winner",
@@ -3382,11 +3835,20 @@
    ],
    "polls": [],
    "markets": [],
-   "finance": [],
+   "finance": [
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 13871131,
+     "opp_coh": null,
+     "text": "$13.9M COH (9/30); Sapaskis has no FEC financial report this cycle",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+    }
+   ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ny-15-house-election-winner",
@@ -3448,12 +3910,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 4987842,
+     "opp_coh": 883162,
+     "text": "$5.0M vs $883K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ny-03-house-election-winner",
@@ -3511,6 +3981,20 @@
      "as_of": "2026-10-09",
      "previous": "Lean R",
      "url": "https://www.cookpolitical.com/analysis/house/house-overview/eighteen-more-house-race-ratings-move-democrats-favor"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Inside Elections",
+     "rating": "Toss Up",
+     "as_of": "2026-10-15",
+     "url": "https://ncpoliticalnews.com/news/inside-elections-nc1-nc11-house-races-toss-up/"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Lean D",
+     "as_of": "2026-10-20",
+     "url": "https://sabatoscrystalball.substack.com/p/the-house-28-rating-changes-push"
     }
    ],
    "polls": [
@@ -3613,12 +4097,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2027710,
+     "opp_coh": 1864912,
+     "text": "$2.0M vs $1.9M COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nc-01-house-election-winner",
@@ -3668,6 +4160,20 @@
      "source": "Inside Elections",
      "rating": "Lean R",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Inside Elections",
+     "rating": "Toss Up",
+     "as_of": "2026-10-15",
+     "url": "https://ncpoliticalnews.com/news/inside-elections-nc1-nc11-house-races-toss-up/"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Lean D",
+     "as_of": "2026-10-20",
+     "url": "https://sabatoscrystalball.substack.com/p/the-house-28-rating-changes-push"
     }
    ],
    "polls": [
@@ -3709,12 +4215,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1641163,
+     "opp_coh": 295085,
+     "text": "$1.6M vs $295K COH (9/30)",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nc-11-house-election-winner",
@@ -3762,12 +4276,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1102523,
+     "opp_coh": 60684,
+     "text": "$1.1M vs $61K COH (9/30)",
+     "url": "https://www.fec.gov/data/candidate/H2OH13264/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "oh-13-house-election-winner",
@@ -3817,6 +4339,20 @@
      "source": "Inside Elections",
      "rating": "Tilt D",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Cook",
+     "rating": "Likely D",
+     "as_of": "2026-10-16",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Likely D",
+     "as_of": "2026-10-20",
+     "url": "https://sabatoscrystalball.substack.com/p/the-house-28-rating-changes-push"
     }
    ],
    "polls": [
@@ -3837,6 +4373,24 @@
      "text": "Quantus Insights Aug 21–24 (509 LV): Landsman 47, Conroy 43 (48–45 with leaners)",
      "url": "https://quantusinsights.org/polling/f/new-quantus-insights-survey-ohio%E2%80%99s-1st-district-is-up-for-grabs",
      "date": "2026-08-24"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Torchlight Strategies",
+     "sponsor": "Conroy campaign",
+     "sponsor_lean": "R",
+     "start_date": "2026-09-29",
+     "end_date": "2026-10-02",
+     "release_date": "2026-10-15",
+     "date": "2026-10-02",
+     "sample": "400 LV",
+     "population": "LV",
+     "cand_pct": 46,
+     "opp_name": "Conroy",
+     "opp_pct": 44,
+     "others": "Weise (L) 5",
+     "text": "Torchlight Strategies (R, Conroy internal) Sep 29-Oct 2 (400 LV): Landsman 46, Conroy 44, Weise (L) 5",
+     "url": "https://x.com/EricConroyOH/status/2110896060302565557"
     }
    ],
    "markets": [],
@@ -3847,12 +4401,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 1497731,
+     "opp_coh": 333444,
+     "text": "$1.5M vs $333K COH (9/30)",
+     "url": "https://www.fec.gov/data/candidate/H2OH01194/?cycle=2026"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "oh-01-house-election-winner",
@@ -3955,6 +4517,13 @@
      "source": "Sabato",
      "rating": "Likely D",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Inside Elections",
+     "rating": "Solid D",
+     "as_of": "2026-10-15",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
     }
    ],
    "polls": [],
@@ -3971,7 +4540,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "or-05-house-election-winner",
@@ -4123,6 +4692,20 @@
      "as_of": "2026-10-09",
      "previous": "Toss Up",
      "url": "https://www.cookpolitical.com/analysis/house/house-overview/eighteen-more-house-race-ratings-move-democrats-favor"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Inside Elections",
+     "rating": "Toss Up",
+     "as_of": "2026-10-15",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Lean D",
+     "as_of": "2026-10-20",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
     }
    ],
    "polls": [
@@ -4153,12 +4736,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 2500000,
+     "opp_coh": 1600000,
+     "text": "~$2.5M vs ~$1.6M COH (9/30)",
+     "url": "https://www.yahoo.com/news/politics/articles/u-house-races-central-pennsylvanias-203925545.html"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "pa-10-house-election-winner",
@@ -4286,6 +4877,13 @@
      "source": "Inside Elections",
      "rating": "Tilt R",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Inside Elections",
+     "rating": "Toss Up",
+     "as_of": "2026-10-15",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
     }
    ],
    "polls": [
@@ -4357,7 +4955,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "tx-15-house-election-winner",
@@ -4460,6 +5058,20 @@
      "source": "Sabato",
      "rating": "Toss-up",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Lean D",
+     "as_of": "2026-10-20",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Inside Elections",
+     "rating": "Toss Up",
+     "as_of": "2026-10-15",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
     }
    ],
    "polls": [
@@ -4495,7 +5107,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "tx-34-house-election-winner",
@@ -4745,12 +5357,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 5827746,
+     "opp_coh": 116560,
+     "text": "$5.83M vs $0.12M COH (9/30)",
+     "url": "https://cardinalnews.org/2026/10/17/perriello-holds-2-1-cash-advantage-over-mcguire-hes-only-democratic-challenger-in-virginia-with-financial-edge/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "va-07-house-election-winner",
@@ -4864,12 +5484,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 891311,
+     "opp_coh": 2190517,
+     "text": "$0.89M vs $2.19M COH (9/30)",
+     "url": "https://cardinalnews.org/2026/10/17/perriello-holds-2-1-cash-advantage-over-mcguire-hes-only-democratic-challenger-in-virginia-with-financial-edge/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "va-01-house-election-winner",
@@ -4962,6 +5590,20 @@
      "as_of": "2026-10-09",
      "previous": "Toss Up",
      "url": "https://www.cookpolitical.com/analysis/house/house-overview/eighteen-more-house-race-ratings-move-democrats-favor"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Inside Elections",
+     "rating": "Toss Up",
+     "as_of": "2026-10-15",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Lean D",
+     "as_of": "2026-10-20",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
     }
    ],
    "polls": [
@@ -5015,7 +5657,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "wa-03-house-election-winner",
@@ -5124,6 +5766,13 @@
      "source": "Inside Elections",
      "rating": "Toss-up",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Sabato",
+     "rating": "Lean D",
+     "as_of": "2026-10-20",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
     }
    ],
    "polls": [
@@ -5154,12 +5803,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 901408,
+     "opp_coh": 2100000,
+     "text": "$0.90M vs ~$2.1M COH (9/30)",
+     "url": "https://www.yahoo.com/news/politics/articles/berman-cooke-outraise-gop-incumbent-210211790.html"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "wi-03-house-election-winner",
@@ -5403,12 +6060,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 3200000,
+     "opp_coh": 5000000,
+     "text": "$3.2M vs ~$5M COH (Q3 FEC)",
+     "url": "https://www.adn.com/politics/2026/10/16/sullivan-and-peltola-lob-personal-attacks-as-they-clash-over-iran-war-and-the-economy/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "alaska-senate-election-winner",
@@ -5816,6 +6481,24 @@
      "text": "Trafalgar GA: Ossoff 51, Collins 43.",
      "url": "https://www.newsweek.com/jon-ossoff-extends-lead-over-mike-collins-in-georgia-senate-race-poll-12552612",
      "date": "2026-10-09"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Quantus Insights",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-19",
+     "date": "2026-10-19",
+     "sample": "755 LV",
+     "population": "LV",
+     "cand_pct": 52,
+     "opp_name": "Collins",
+     "opp_pct": 45,
+     "others": null,
+     "text": "Quantus Insights final GA poll, released Oct 19 (755 LV): Ossoff 51.8, Collins 44.9",
+     "url": "https://jasonbcorley.substack.com/p/the-senator-and-the-ticket-reading"
     }
    ],
    "markets": [],
@@ -5826,12 +6509,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 26000000,
+     "opp_coh": 1100000,
+     "text": "~$26M vs ~$1.1M COH (9/30)",
+     "url": "https://cobbcountycourier.com/?p=113553"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "georgia-senate-election-winner",
@@ -6315,6 +7006,42 @@
      "text": "Suffolk IA: Turek 48.0, Hinson 43.6.",
      "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_7_2026_iowa_statewide_marginals.pdf",
      "date": "2026-10-04"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Marist",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-11",
+     "release_date": "2026-10-15",
+     "date": "2026-10-11",
+     "sample": "LV (of 1,100 RV)",
+     "population": "LV",
+     "cand_pct": 48,
+     "opp_name": "Hinson",
+     "opp_pct": 45,
+     "others": null,
+     "text": "Marist Oct 8-11 (LV): Turek 48, Hinson 45",
+     "url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-in-iowa-october-2026/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "YouGov",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-06",
+     "end_date": "2026-10-12",
+     "release_date": "2026-10-14",
+     "date": "2026-10-12",
+     "sample": "2,245 LV",
+     "population": "LV",
+     "cand_pct": 47,
+     "opp_name": "Hinson",
+     "opp_pct": 46,
+     "others": null,
+     "text": "YouGov Oct 6-12 (2,245 LV): Turek 47, Hinson 46",
+     "url": "https://www.newsweek.com/josh-turek-ashley-hinson-iowa-polls-trump-voters-12569851"
     }
    ],
    "markets": [],
@@ -6325,12 +7052,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 3607093,
+     "opp_coh": 7000000,
+     "text": "$3.6M vs ~$7M COH (9/30)",
+     "url": "https://www.iowapublicradio.org/political-news/2026-10-16/iowa-democrats-outpace-republicans-fundraising-senate-race-josh-turek-ashley-hinson-congress-federal-elections-commission"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "iowa-senate-election-winner",
@@ -6745,6 +7480,24 @@
      "text": "National Public Affairs: Ricketts 46, Osborn 43 (full ballot); 49-46 head-to-head.",
      "url": "https://www.dailykos.com/stories/2026/10/13/800111649/community/new/",
      "date": "2026-10-05"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "NPA Polling (National Public Affairs)",
+     "sponsor": null,
+     "sponsor_lean": "R",
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-12",
+     "date": "2026-10-12",
+     "sample": "800 LV",
+     "population": "LV",
+     "cand_pct": 43,
+     "opp_name": "Ricketts",
+     "opp_pct": 46,
+     "others": null,
+     "text": "NPA Polling (R), released Oct 12 (800 LV): Osborn 43, Ricketts 46",
+     "url": "https://politicalwire.com/2026/10/12/ricketts-leads-osborn-in-nebraska-senate-race/"
     }
    ],
    "markets": [],
@@ -6760,7 +7513,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "nebraska-senate-election-winner",
@@ -6818,6 +7571,13 @@
      "as_of": "2026-10-06",
      "previous": "Toss Up",
      "url": "https://dailycaller.com/2026/10/06/kansas-senate-race-roger-marshall-toss-up-cook-political-report/"
+    },
+    {
+     "observed": "2026-10-20",
+     "source": "Inside Elections",
+     "rating": "Tilt D",
+     "as_of": "2026-10-15",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
     }
    ],
    "polls": [
@@ -7047,6 +7807,24 @@
      "text": "YouGov Sep 28–Oct 5 (1,520 LV): Pappas 51, Sununu 43",
      "url": "https://newsweek.com/democrats-flip-senate-seats-midterms-poll-12535052",
      "date": "2026-10-05"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "NPA Polling (National Public Affairs)",
+     "sponsor": null,
+     "sponsor_lean": "R",
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-16",
+     "date": "2026-10-16",
+     "sample": "600 LV",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Sununu",
+     "opp_pct": 43,
+     "others": null,
+     "text": "NPA Polling (R-aligned firm), released Oct 16 (600 LV): Pappas 50, Sununu 43",
+     "url": "https://politicalwire.com/2026/10/16/pappas-leads-sununu-in-new-hampshire-senate-race-2/"
     }
    ],
    "markets": [],
@@ -7062,7 +7840,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "new-hampshire-senate-election-winner",
@@ -7573,6 +8351,24 @@
      "text": "ECU NC: Cooper 50, Whatley 43.",
      "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-s-lead-holds-at-7-points",
      "date": "2026-10-03"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Elon University (YouGov)",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-09-29",
+     "end_date": "2026-10-08",
+     "release_date": "2026-10-20",
+     "date": "2026-10-08",
+     "sample": "560 LV",
+     "population": "LV",
+     "cand_pct": 52,
+     "opp_name": "Whatley",
+     "opp_pct": 39,
+     "others": null,
+     "text": "Elon Poll Sep 29-Oct 8 (LV, released Oct 20): Cooper 52, Whatley 39 (54-43 with undecideds pushed)",
+     "url": "https://www.elon.edu/u/news/2026/10/20/final-elon-university-poll-before-election-day-cooper-has-double-digit-lead-over-whatley-in-nc-us-senate-race/"
     }
    ],
    "markets": [],
@@ -7583,12 +8379,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 12480000,
+     "opp_coh": 916102,
+     "text": "$12.48M vs $0.92M COH (9/30)",
+     "url": "https://ncpoliticalnews.com/news/fec-cooper-whatley-cash-on-hand-september-2026/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "north-carolina-senate-election-winner",
@@ -7946,6 +8750,60 @@
      "text": "co/efficient OH: Husted 44, Brown 43 (full field).",
      "url": "https://battlegrounds.coefficient.org/oh/",
      "date": "2026-10-06"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Bowling Green State University/YouGov",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-16",
+     "date": "2026-10-16",
+     "sample": "1,000 LV",
+     "population": "LV",
+     "cand_pct": 48,
+     "opp_name": "Husted",
+     "opp_pct": 42,
+     "others": "Levy (I) 5, Redpath (L) 3",
+     "text": "BGSU/YouGov (rel. Oct 16, LV): Brown 48, Husted 42",
+     "url": "https://politicalwire.com/2026/10/16/democrats-lead-in-ohio/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Marist",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-15",
+     "end_date": "2026-10-18",
+     "release_date": "2026-10-20",
+     "date": "2026-10-18",
+     "sample": "LV (of 1,176 RV)",
+     "population": "LV",
+     "cand_pct": 48,
+     "opp_name": "Husted",
+     "opp_pct": 44,
+     "others": null,
+     "text": "Marist Oct 15-18 (LV): Brown 48, Husted 44",
+     "url": "https://maristpoll.marist.edu/polls/midterm-elections-in-ohio-october-2026/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "ActiVote",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-09-26",
+     "end_date": "2026-10-18",
+     "release_date": "2026-10-18",
+     "date": "2026-10-18",
+     "sample": "400 LV",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Husted",
+     "opp_pct": 50,
+     "others": null,
+     "text": "ActiVote Sep 26-Oct 18 (400 LV): Husted 50.2, Brown 49.8",
+     "url": "https://www.activote.net/polls/2026/oh-u-s-senate/2026-10-18/"
     }
    ],
    "markets": [],
@@ -7961,7 +8819,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ohio-senate-election-winner",
@@ -8078,6 +8936,24 @@
      "text": "WPRI/Emerson: Reed 59, McKay 25.",
      "url": "https://emersoncollegepolling.com/rhode-island-2026-governor/",
      "date": "2026-10-11"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Embold Research",
+     "sponsor": "Pell Center (Salve Regina)",
+     "sponsor_lean": null,
+     "start_date": "2026-10-05",
+     "end_date": "2026-10-08",
+     "release_date": "2026-10-20",
+     "date": "2026-10-08",
+     "sample": "815 LV",
+     "population": "LV",
+     "cand_pct": 55,
+     "opp_name": "McKay",
+     "opp_pct": 32,
+     "others": null,
+     "text": "Pell Center/Embold Oct 5-8 (815 LV): Reed 55, McKay 32",
+     "url": "https://salve.edu/news/news-listing/pell-center-survey-foulkes-leads-governors-race-11-points-lieutenant-governor-contest-deadlocked"
     }
    ],
    "markets": [],
@@ -8093,7 +8969,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "rhode-island-senate-election-winner",
@@ -8279,6 +9155,24 @@
      "text": "Rasmussen SC: Graham 49, Andrews 45.",
      "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_south_carolina_senate",
      "date": "2026-10-08"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Trafalgar Group",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-16",
+     "end_date": "2026-10-18",
+     "release_date": "2026-10-19",
+     "date": "2026-10-18",
+     "sample": "1,095 LV",
+     "population": "LV",
+     "cand_pct": 46,
+     "opp_name": "Graham",
+     "opp_pct": 49,
+     "others": null,
+     "text": "Trafalgar Oct 16-18 (1,095 LV): Graham 49, Andrews 46",
+     "url": "https://www.thetrafalgargroup.org/news/sc-senate-gen-1018/"
     }
    ],
    "markets": [],
@@ -8294,7 +9188,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "south-carolina-senate-election-winner",
@@ -8984,6 +9878,78 @@
      "text": "Quantus Insights: Talarico 47, Paxton 47 (Paxton +0.5 unrounded).",
      "url": "https://www.realclearpolling.com/polls/senate/general/2026/texas/talarico-vs-paxton",
      "date": "2026-10-11"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "University of Houston Hobby School",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-10",
+     "end_date": "2026-10-14",
+     "release_date": null,
+     "date": "2026-10-14",
+     "sample": "2,000 LV",
+     "population": "LV",
+     "cand_pct": 48,
+     "opp_name": "Paxton",
+     "opp_pct": 46,
+     "others": "Ted Brown (L) 3, undecided 3",
+     "text": "UH Hobby School Oct 10-14 (2,000 LV): Talarico 48, Paxton 46",
+     "url": "https://www.uh.edu/hobby/texas2026/index.php"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "InsiderAdvantage",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-13",
+     "end_date": "2026-10-14",
+     "release_date": "2026-10-15",
+     "date": "2026-10-14",
+     "sample": "1,200 LV",
+     "population": "LV",
+     "cand_pct": 48,
+     "opp_name": "Paxton",
+     "opp_pct": 49,
+     "others": null,
+     "text": "InsiderAdvantage Oct 13-14 (1,200 LV): Paxton 49, Talarico 48",
+     "url": "https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "ActiVote",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-09-30",
+     "end_date": "2026-10-14",
+     "release_date": "2026-10-15",
+     "date": "2026-10-14",
+     "sample": "400 LV",
+     "population": "LV",
+     "cand_pct": 52,
+     "opp_name": "Paxton",
+     "opp_pct": 48,
+     "others": null,
+     "text": "ActiVote Sep 30-Oct 14 (400 LV): Talarico 51.9, Paxton 48.1",
+     "url": "https://www.activote.net/polls/2026/tx-u-s-senate/2026-10-14/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "YouGov",
+     "sponsor": "CBS News",
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-16",
+     "release_date": "2026-10-18",
+     "date": "2026-10-16",
+     "sample": "1,458 LV",
+     "population": "LV",
+     "cand_pct": 51,
+     "opp_name": "Paxton",
+     "opp_pct": 49,
+     "others": null,
+     "text": "CBS News/YouGov Oct 8-16 (1,458 LV): Talarico 51, Paxton 49 (LV toplines as listed by 270toWin; CBS text calls it essentially tied)",
+     "url": "https://www.cbsnews.com/news/texas-senate-talarico-paxton-poll/"
     }
    ],
    "markets": [],
@@ -8994,12 +9960,20 @@
      "cand_coh": null,
      "opp_coh": null,
      "report_date": null
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 14600000,
+     "opp_coh": 4900000,
+     "text": "$14.6M vs $4.9M COH (9/30)",
+     "url": "https://communityimpact.com/central-austin/election/see-how-much-money-candidates-outside-groups-have-raised-in-texas-us-senate-race/"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "texas-senate-election-winner",
@@ -9793,6 +10767,78 @@
      "text": "Univ. of New Hampshire ending Sep 21 (540 LV): Lamont 55, Fazio 38",
      "url": "https://www.270towin.com/2026-governor-polls/connecticut",
      "date": "2026-09-21"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Quinnipiac",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-12",
+     "release_date": "2026-10-14",
+     "date": "2026-10-12",
+     "sample": "1,225 LV",
+     "population": "LV",
+     "cand_pct": 58,
+     "opp_name": "Fazio",
+     "opp_pct": 38,
+     "others": null,
+     "text": "Quinnipiac Oct 8-12 (1,225 LV): Lamont 58, Fazio 38",
+     "url": "https://poll.qu.edu/poll-release?releaseid=3971"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Emerson",
+     "sponsor": "Nexstar Media",
+     "sponsor_lean": null,
+     "start_date": "2026-10-10",
+     "end_date": "2026-10-12",
+     "release_date": "2026-10-15",
+     "date": "2026-10-12",
+     "sample": "800 LV",
+     "population": "LV",
+     "cand_pct": 51,
+     "opp_name": "Fazio",
+     "opp_pct": 38,
+     "others": "undecided 11",
+     "text": "Emerson/Nexstar Oct 10-12 (800 LV): Lamont 51, Fazio 38",
+     "url": "https://emersoncollegepolling.com/connecticut-2026-poll-ned-lamont-holds-13-point-lead-over-ryan-fazio/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Wesleyan SurveyLab/YouGov",
+     "sponsor": "The Connecticut Project",
+     "sponsor_lean": null,
+     "start_date": "2026-09-22",
+     "end_date": "2026-10-07",
+     "release_date": "2026-10-16",
+     "date": "2026-10-07",
+     "sample": "LV (of 1,000 RV)",
+     "population": "LV",
+     "cand_pct": 57,
+     "opp_name": "Fazio",
+     "opp_pct": 34,
+     "others": null,
+     "text": "Wesleyan SurveyLab/YouGov Sep 22-Oct 7 (LV): Lamont 57, Fazio 34",
+     "url": "https://surveylab.wescreates.wesleyan.edu/uncategorized/wesleyan-surveylab-ct-poll-lamont-leads-in-governors-race-while-connecticut-voters-express-concern-about-cost-of-living/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "GreatBlue Research/Sacred Heart University",
+     "sponsor": "WFSB/CT Insider",
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-19",
+     "date": "2026-10-19",
+     "sample": "LV",
+     "population": "LV",
+     "cand_pct": 59,
+     "opp_name": "Fazio",
+     "opp_pct": 33,
+     "others": null,
+     "text": "Sacred Heart/GreatBlue for WFSB-CT Insider (rel. Oct 19, LV): Lamont 59.3, Fazio 32.7",
+     "url": "https://www.wfsb.com/2026/10/19/exclusive-poll-lamont-increases-advantage-over-fazio-final-leg-campaign/"
     }
    ],
    "markets": [],
@@ -9800,7 +10846,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "connecticut-governor-winner-2026",
@@ -10228,6 +11274,78 @@
      "text": "Suffolk IA gov: Sand 54.8, Lahn 42.8.",
      "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_7_2026_iowa_statewide_marginals.pdf",
      "date": "2026-10-04"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Marist",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-11",
+     "release_date": "2026-10-15",
+     "date": "2026-10-11",
+     "sample": "LV (of 1,100 RV)",
+     "population": "LV",
+     "cand_pct": 52,
+     "opp_name": "Lahn",
+     "opp_pct": 45,
+     "others": null,
+     "text": "Marist Oct 8-11 (LV): Sand 52, Lahn 45",
+     "url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-in-iowa-october-2026/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "YouGov",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-06",
+     "end_date": "2026-10-12",
+     "release_date": null,
+     "date": "2026-10-12",
+     "sample": "2,245 LV",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Lahn",
+     "opp_pct": 44,
+     "others": "undecided 6",
+     "text": "YouGov Oct 6-12 (2,245 LV): Sand 50, Lahn 44",
+     "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261006_lv.pdf"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "NPA Polling (National Public Affairs)",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-12",
+     "release_date": "2026-10-19",
+     "date": "2026-10-12",
+     "sample": "678 LV",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Lahn",
+     "opp_pct": 45,
+     "others": "undecided 5",
+     "text": "NPA Polling Oct 8-12 (678 LV): Sand 50, Lahn 45",
+     "url": "https://backend.natpublicaffairs.com/media/Iowa_General_Election_Memo_101526.3.pdf"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "co/efficient",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-15",
+     "end_date": "2026-10-19",
+     "release_date": null,
+     "date": "2026-10-19",
+     "sample": "863 LV",
+     "population": "LV",
+     "cand_pct": 49,
+     "opp_name": "Lahn",
+     "opp_pct": 45,
+     "others": "undecided 6",
+     "text": "co/efficient Oct 15-19 (863 LV): Sand 49, Lahn 45",
+     "url": "https://battlegrounds.coefficient.org/ia/"
     }
    ],
    "markets": [
@@ -10250,7 +11368,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "iowa-governor-winner-2026",
@@ -10768,6 +11886,42 @@
      "text": "MassINC Polling Group for CommonWealth Beacon ending Sep 22 (800 LV): Healey 54, Minogue 32",
      "url": "https://www.270towin.com/2026-governor-polls/massachusetts",
      "date": "2026-09-22"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "YouGov",
+     "sponsor": "UMass Amherst Poll",
+     "sponsor_lean": null,
+     "start_date": "2026-10-05",
+     "end_date": "2026-10-12",
+     "release_date": "2026-10-19",
+     "date": "2026-10-12",
+     "sample": "800 RV",
+     "population": "RV",
+     "cand_pct": 57,
+     "opp_name": "Minogue",
+     "opp_pct": 32,
+     "others": "James (I) 6",
+     "text": "UMass Amherst/YouGov Oct 5-12 (800 RV): Healey 57, Minogue 32 (with leaners)",
+     "url": "https://www.umass.edu/poll/about/reports/2026-10-massachusetts-public-opinion-poll"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Suffolk University",
+     "sponsor": "Boston Globe",
+     "sponsor_lean": null,
+     "start_date": "2026-10-14",
+     "end_date": "2026-10-18",
+     "release_date": "2026-10-20",
+     "date": "2026-10-18",
+     "sample": "500 LV",
+     "population": "LV",
+     "cand_pct": 59,
+     "opp_name": "Minogue",
+     "opp_pct": 36,
+     "others": null,
+     "text": "Suffolk/Boston Globe Oct 14-18 (500 LV): Healey 58.6, Minogue 36.0",
+     "url": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/massachusetts"
     }
    ],
    "markets": [],
@@ -10775,7 +11929,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "massachusetts-governor-winner-2026",
@@ -11427,6 +12581,42 @@
      "text": "Star Tribune/Mason-Dixon Minnesota Poll: Klobuchar 50, Demuth 41 for governor.",
      "url": "https://www.realclearpolling.com/polls/governor/general/2026/minnesota/demuth-vs-klobuchar",
      "date": "2026-10-07"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Mason-Dixon",
+     "sponsor": "Star Tribune/KARE 11",
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-13",
+     "date": "2026-10-13",
+     "sample": "800 LV",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Demuth",
+     "opp_pct": 41,
+     "others": null,
+     "text": "Star Tribune/KARE 11 Minnesota Poll (Mason-Dixon, rel. Oct 13, 800 LV): Klobuchar 50, Demuth 41",
+     "url": "https://politicalwire.com/2026/10/13/amy-klobuchar-hits-50-for-minnesota-governor/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "SurveyUSA",
+     "sponsor": "KSTP",
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-14",
+     "date": "2026-10-14",
+     "sample": "718 LV",
+     "population": "LV",
+     "cand_pct": 48,
+     "opp_name": "Demuth",
+     "opp_pct": 41,
+     "others": null,
+     "text": "KSTP/SurveyUSA (mid-Oct, 718 LV): Klobuchar 48, Demuth 41",
+     "url": "https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-swing-in-senate-and-ag-races-klobuchar-up-slightly-on-demuth/"
     }
    ],
    "markets": [],
@@ -11442,7 +12632,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "minnesota-governor-winner-2026",
@@ -11860,6 +13050,24 @@
      "text": "Emerson/PIX11 Oct 3–5 (900 LV): Hochul 52, Blakeman 40",
      "url": "https://yonkerstimes.com/ny-governors-race-new-emerson-poll-hochul-52-blakeman-40-undecided-8/",
      "date": "2026-10-05"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Beacon Research",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-15",
+     "date": "2026-10-15",
+     "sample": "820 RV",
+     "population": "RV",
+     "cand_pct": 53,
+     "opp_name": "Blakeman",
+     "opp_pct": 31,
+     "others": null,
+     "text": "Beacon Research (rel. Oct 15, 820 RV): Hochul 53, Blakeman 31",
+     "url": "https://politicalwire.com/2026/10/15/kathy-hochul-way-up-in-new-york-governors-race/"
     }
    ],
    "markets": [],
@@ -11875,7 +13083,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "new-york-governor-winner-2026",
@@ -12100,6 +13308,60 @@
      "text": "co/efficient OH gov: Ramaswamy 45, Acton 43.",
      "url": "https://battlegrounds.coefficient.org/oh/",
      "date": "2026-10-06"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Bowling Green State University/YouGov",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-16",
+     "date": "2026-10-16",
+     "sample": "1,000 LV",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Ramaswamy",
+     "opp_pct": 44,
+     "others": "Kissick (L) 4",
+     "text": "BGSU/YouGov (rel. Oct 16, LV): Acton 50, Ramaswamy 44",
+     "url": "https://politicalwire.com/2026/10/16/democrats-lead-in-ohio/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Marist",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-15",
+     "end_date": "2026-10-18",
+     "release_date": "2026-10-20",
+     "date": "2026-10-18",
+     "sample": "LV (of 1,176 RV)",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Ramaswamy",
+     "opp_pct": 43,
+     "others": null,
+     "text": "Marist Oct 15-18 (LV): Acton 50, Ramaswamy 43",
+     "url": "https://maristpoll.marist.edu/polls/midterm-elections-in-ohio-october-2026/"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "ActiVote",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-09-27",
+     "end_date": "2026-10-19",
+     "release_date": "2026-10-19",
+     "date": "2026-10-19",
+     "sample": "400 LV",
+     "population": "LV",
+     "cand_pct": 49,
+     "opp_name": "Ramaswamy",
+     "opp_pct": 51,
+     "others": null,
+     "text": "ActiVote Sep 27-Oct 19 (400 LV): Ramaswamy 51.4, Acton 48.6",
+     "url": "https://www.activote.net/polls/2026/oh-governor/"
     }
    ],
    "markets": [],
@@ -12115,7 +13377,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "ohio-governor-winner-2026",
@@ -12515,6 +13777,24 @@
      "text": "WPRI/Emerson: Foulkes 44, Block (I) 35, Guckian (R) 10.",
      "url": "https://emersoncollegepolling.com/rhode-island-2026-governor/",
      "date": "2026-10-11"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "Embold Research",
+     "sponsor": "Pell Center (Salve Regina)",
+     "sponsor_lean": null,
+     "start_date": "2026-10-05",
+     "end_date": "2026-10-08",
+     "release_date": "2026-10-20",
+     "date": "2026-10-08",
+     "sample": "815 LV",
+     "population": "LV",
+     "cand_pct": 39,
+     "opp_name": "Guckian",
+     "opp_pct": 17,
+     "others": "Block (I) 28, undecided 13",
+     "text": "Pell Center/Embold Oct 5-8 (815 LV): Foulkes 39, Block 28, Guckian 17",
+     "url": "https://salve.edu/news/news-listing/pell-center-survey-foulkes-leads-governors-race-11-points-lieutenant-governor-contest-deadlocked"
     }
    ],
    "markets": [],
@@ -12522,7 +13802,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "rhode-island-governor-winner-2026",
@@ -12840,6 +14120,24 @@
      "text": "Marquette Law School Sep 24–Sep 28 (692 LV): Crowley 49, Tiffany 46",
      "url": "https://www.270towin.com/2026-governor-polls/wisconsin",
      "date": "2026-09-28"
+    },
+    {
+     "observed": "2026-10-20",
+     "pollster": "YouGov",
+     "sponsor": "City Forward Collective/CFC Action Fund",
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": null,
+     "release_date": "2026-10-16",
+     "date": "2026-10-16",
+     "sample": "1,715 RV",
+     "population": "RV",
+     "cand_pct": 46,
+     "opp_name": "Tiffany",
+     "opp_pct": 42,
+     "others": null,
+     "text": "City Forward Collective/YouGov (rel. Oct 16): Crowley 46, Tiffany 42",
+     "url": "https://politicalwire.com/2026/10/16/crowley-leads-tiffany-in-wisconsin-governors-race-2/"
     }
    ],
    "markets": [],
@@ -12855,7 +14153,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "wisconsin-governor-winner-2026",
@@ -13544,12 +14842,20 @@
      "cand_coh": 2550000,
      "opp_coh": 4470000,
      "text": "$2.55M vs $4.47M (7/15, pre-primary)"
+    },
+    {
+     "observed": "2026-10-20",
+     "report_date": "2026-09-30",
+     "cand_coh": 3792203,
+     "opp_coh": 6527471,
+     "text": "$3.8M vs $6.5M COH (9/30)",
+     "url": "https://michiganadvance.com/?p=114526"
     }
    ],
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-20",
    "market_ids": {
     "polymarket": {
      "slug": "michigan-senate-election-winner",
