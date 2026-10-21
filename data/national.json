@@ -1895,24 +1895,6 @@
     "url": "https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote"
    },
    {
-    "pollster": "Reuters/Ipsos",
-    "start_date": "2026-10-16",
-    "end_date": "2026-10-19",
-    "sample": "1279 RV",
-    "d": 47,
-    "r": 35,
-    "url": "https://www.pollsmax.com/approval/generic-ballot/"
-   },
-   {
-    "pollster": "ActiVote",
-    "start_date": "2026-10-04",
-    "end_date": "2026-10-14",
-    "sample": "1000 LV",
-    "d": 53.3,
-    "r": 46.7,
-    "url": "https://www.activote.net/polls/generic-ballot/2026-10-14/"
-   },
-   {
     "pollster": "AP-NORC",
     "start_date": "2026-10-08",
     "end_date": "2026-10-12",
@@ -1947,6 +1929,60 @@
     "d": 55,
     "r": 45,
     "url": "https://www.pollsmax.com/approval/generic-ballot/"
+   },
+   {
+    "pollster": "Ipsos",
+    "start_date": null,
+    "end_date": "2026-10-13",
+    "sample": "2032 LV",
+    "d": 52,
+    "r": 44,
+    "url": "https://www.pollsmax.com/approval/generic-ballot/"
+   },
+   {
+    "pollster": "RMG Research",
+    "start_date": null,
+    "end_date": "2026-10-13",
+    "sample": null,
+    "d": 54,
+    "r": 43,
+    "url": "https://www.pollsmax.com/approval/generic-ballot/"
+   },
+   {
+    "pollster": "ActiVote",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-14",
+    "sample": "1000 LV",
+    "d": 53.3,
+    "r": 46.7,
+    "url": "https://www.activote.net/polls/generic-ballot/2026-10-14/"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-19",
+    "sample": "1279 RV",
+    "d": 47,
+    "r": 35,
+    "url": "https://www.pollsmax.com/approval/generic-ballot/"
+   },
+   {
+    "pollster": "New York Times/Siena",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-19",
+    "sample": "3494 LV",
+    "d": 52,
+    "r": 41,
+    "url": "https://www.fox5ny.com/news/democrats-gaining-advantage-ahead-midterms-trumps-ratings-sink-poll"
+   },
+   {
+    "pollster": "Strength In Numbers/Verasight",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-20",
+    "sample": null,
+    "d": 54,
+    "r": 42,
+    "url": "https://politicalwire.com/2026/10/21/democrats-open-their-widest-lead-on-the-generic-ballot/"
    }
   ],
   "generic_avg": [
@@ -2151,12 +2187,28 @@
     "url": "https://fiftyplusone.news/polls/generic-ballot/generic-ballot"
    },
    {
-    "source": "FiftyPlusOne",
-    "date": "2026-10-20",
-    "d": 51.6,
+    "source": "DDHQ",
+    "date": "2026-10-18",
+    "d": 50.2,
+    "r": 42.4,
+    "margin": 7.8,
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   },
+   {
+    "source": "NBC News",
+    "date": "2026-10-18",
+    "d": 51.0,
     "r": 43.0,
-    "margin": 8.6,
-    "url": "https://fiftyplusone.news/polls/generic-ballot/generic-ballot"
+    "margin": 8.0,
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-10-18",
+    "d": 50.1,
+    "r": 41.1,
+    "margin": 9.0,
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
    },
    {
     "source": "RealClearPolitics",
@@ -2165,6 +2217,30 @@
     "r": 42.4,
     "margin": 8.3,
     "url": "https://www.yahoo.com/news/politics/articles/latest-midterm-polls-election-odds-153705198.html"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-20",
+    "d": 51.6,
+    "r": 43.0,
+    "margin": 8.6,
+    "url": "https://fiftyplusone.news/polls/generic-ballot/generic-ballot"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-10-21",
+    "d": null,
+    "r": null,
+    "margin": 9.2,
+    "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-21",
+    "d": 51.8,
+    "r": 42.8,
+    "margin": 9.0,
+    "url": "https://fiftyplusone.news/polls/generic-ballot/generic-ballot"
    }
   ],
   "approval_polls": [
@@ -2790,24 +2866,6 @@
     "url": "https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term"
    },
    {
-    "pollster": "Reuters/Ipsos",
-    "start_date": "2026-10-16",
-    "end_date": "2026-10-19",
-    "sample": "1679 A",
-    "approve": 31,
-    "disapprove": 66,
-    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
-   },
-   {
-    "pollster": "Washington Post/ABC News/Ipsos",
-    "start_date": "2026-10-09",
-    "end_date": "2026-10-13",
-    "sample": "2545 A",
-    "approve": 33,
-    "disapprove": 66,
-    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
-   },
-   {
     "pollster": "Fox News (Beacon/Shaw)",
     "start_date": "2026-10-09",
     "end_date": "2026-10-12",
@@ -2842,6 +2900,60 @@
     "approve": 34,
     "disapprove": 62,
     "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "Washington Post/ABC News/Ipsos",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-13",
+    "sample": "2545 A",
+    "approve": 33,
+    "disapprove": 66,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "Reuters/Ipsos",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-19",
+    "sample": "1679 A",
+    "approve": 31,
+    "disapprove": 66,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "New York Times/Siena",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-19",
+    "sample": "3494 RV",
+    "approve": 34,
+    "disapprove": 60,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "American Research Institute",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-20",
+    "sample": "1100 A",
+    "approve": 29,
+    "disapprove": 67,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "Strength In Numbers/Verasight",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-20",
+    "sample": "2028 A",
+    "approve": 34,
+    "disapprove": 62,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "pollster": "Rasmussen Reports (daily tracking)",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-21",
+    "sample": "1500 LV",
+    "approve": 42,
+    "disapprove": 57,
+    "url": "https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term"
    }
   ],
   "approval_avg": [
@@ -3032,6 +3144,69 @@
     "date": "2026-10-20",
     "approve": 37.1,
     "disapprove": 60.2,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "RealClearPolitics",
+    "date": "2026-10-21",
+    "approve": 38.2,
+    "disapprove": 60.5,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "Decision Desk HQ",
+    "date": "2026-10-21",
+    "approve": 36.8,
+    "disapprove": 61.2,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "Silver Bulletin",
+    "date": "2026-10-21",
+    "approve": 36.3,
+    "disapprove": 60.6,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "FiftyPlusOne",
+    "date": "2026-10-21",
+    "approve": 34.8,
+    "disapprove": 62.0,
+    "url": "https://fiftyplusone.news/polls/approval/president"
+   },
+   {
+    "source": "NYT",
+    "date": "2026-10-21",
+    "approve": 36.0,
+    "disapprove": 61.0,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "The Economist",
+    "date": "2026-10-21",
+    "approve": 34.0,
+    "disapprove": 61.0,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "CNN Poll of Polls",
+    "date": "2026-10-21",
+    "approve": 33.0,
+    "disapprove": 65.0,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "Ballotpedia",
+    "date": "2026-10-21",
+    "approve": 38.0,
+    "disapprove": 60.0,
+    "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+   },
+   {
+    "source": "NBC News",
+    "date": "2026-10-21",
+    "approve": 38.0,
+    "disapprove": 60.0,
     "url": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
    }
   ]

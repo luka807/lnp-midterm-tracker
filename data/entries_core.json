@@ -40,6 +40,13 @@
      "rating": "Lean R",
      "as_of": "2026-09-10",
      "url": "https://www.alreporter.com/2026/09/11/race-rater-narrows-gop-edge-in-alabamas-2nd-congressional-district/"
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Inside Elections",
+     "rating": "Lean R",
+     "as_of": "2026-10-15",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
     }
    ],
    "polls": [
@@ -119,7 +126,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "al-02-house-election-winner",
@@ -290,6 +297,60 @@
      "text": "Siena College, released Oct 3 (504 LV): Begich 47, Hill 35, Hafner 8, McDermott 5",
      "url": "https://www.270towin.com/2026-house-polls/alaska",
      "date": "2026-10-03"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Data for Progress",
+     "sponsor": null,
+     "sponsor_lean": "D",
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-16",
+     "date": "2026-10-16",
+     "release_date": "2026-10-20",
+     "sample": "694 LV",
+     "population": "LV",
+     "cand_pct": 42,
+     "opp_name": "Begich",
+     "opp_pct": 48,
+     "others": "Hafner (D) 5, McDermott (L) 1, Undecided 4; RCV final Begich 51, Hill 49",
+     "text": "Data for Progress Oct 8-16 (694 LV): Begich 48, Hill 42, Hafner 5, McDermott 1; RCV final Begich 51, Hill 49",
+     "url": "https://www.dataforprogress.org/blog/2026/10/20/every-statewide-race-in-alaska-is-close-as-7-in-10-voters-worry-about-affording-gas-and-food"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Public Policy Polling",
+     "sponsor": null,
+     "sponsor_lean": "D",
+     "start_date": "2026-10-14",
+     "end_date": "2026-10-15",
+     "date": "2026-10-15",
+     "release_date": "2026-10-16",
+     "sample": "578 RV",
+     "population": "RV",
+     "cand_pct": 44,
+     "opp_name": "Begich",
+     "opp_pct": 45,
+     "others": "Hafner (D) 5, McDermott (L) 2, Undecided 4",
+     "text": "PPP (Dem-aligned, circulated among groups) Oct 14-15 (578 RV): Begich 45, Hill 44, Hafner 5, McDermott 2",
+     "url": "https://x.com/AndrewSolender/status/2110867168892014803"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Alaska Survey Research",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-01",
+     "end_date": "2026-10-03",
+     "date": "2026-10-03",
+     "release_date": "2026-10-09",
+     "sample": "1512 LV",
+     "population": "LV",
+     "cand_pct": 40,
+     "opp_name": "Begich",
+     "opp_pct": 50,
+     "others": "Hafner (D) 7, McDermott (L) 3; RCV final Begich 53, Hill 47",
+     "text": "Alaska Survey Research Oct 1-3 (1,512 LV): Begich 50, Hill 40, Hafner 7, McDermott 3; RCV final Begich 53, Hill 47",
+     "url": "https://x.com/The_Real_ASR/status/2108662812415549529"
     }
    ],
    "markets": [],
@@ -313,7 +374,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "ak-al-house-election-winner",
@@ -1902,6 +1963,13 @@
      "as_of": "2026-10-09",
      "previous": "Toss Up",
      "url": "https://www.cookpolitical.com/analysis/house/house-overview/eighteen-more-house-race-ratings-move-democrats-favor"
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Sabato",
+     "rating": "Lean D",
+     "as_of": "2026-10-20",
+     "url": "https://centerforpolitics.org/crystalball/the-house-28-rating-changes/"
     }
    ],
    "polls": [
@@ -1938,7 +2006,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "ia-03-house-election-winner",
@@ -2487,6 +2555,13 @@
      "as_of": "2026-10-09",
      "previous": "Lean R",
      "url": "https://www.cookpolitical.com/analysis/house/house-overview/eighteen-more-house-race-ratings-move-democrats-favor"
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Sabato",
+     "rating": "Toss-up",
+     "as_of": "2026-10-08",
+     "url": "https://centerforpolitics.org/crystalball/2026-rating-changes/"
     }
    ],
    "polls": [
@@ -2530,7 +2605,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "mi-04-house-election-winner",
@@ -4726,6 +4801,24 @@
      "text": "Franklin & Marshall Sep 9–20 (390 RV): Stelson 47, Perry 44",
      "url": "https://politicspa.com/fm-poll-stelson-47-perry-44-in-closely-watched-pa-10-contest/153661/",
      "date": "2026-09-20"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Susquehanna Polling & Research",
+     "sponsor": null,
+     "sponsor_lean": "R",
+     "start_date": "2026-10-05",
+     "end_date": "2026-10-11",
+     "date": "2026-10-11",
+     "release_date": "2026-10-17",
+     "sample": "300 LV",
+     "population": "LV",
+     "cand_pct": 49,
+     "opp_name": "Perry",
+     "opp_pct": 46,
+     "others": "Other 1, Undecided 4",
+     "text": "Susquehanna (R-leaning) Oct 5-11 (300 LV): Stelson 49, Perry 46",
+     "url": "https://x.com/SusquehannaPR/status/2111471509856309679"
     }
    ],
    "markets": [],
@@ -4749,7 +4842,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "pa-10-house-election-winner",
@@ -6050,6 +6143,60 @@
      "text": "InsiderAdvantage AK: Peltola 48.2, Sullivan 42.6 first choice; RCV final 50.1-48.",
      "url": "https://www.newsweek.com/alaska-polls-midterms-mary-peltola-dan-sullivan-trump-12557680",
      "date": "2026-10-10"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Data for Progress",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-16",
+     "date": "2026-10-16",
+     "release_date": "2026-10-20",
+     "sample": "694 LV",
+     "population": "LV",
+     "cand_pct": 47,
+     "opp_name": "Sullivan",
+     "opp_pct": 44,
+     "others": "Other candidates 4% (first round of RCV ballot); simulated final round Peltola 51, Sullivan 49",
+     "text": "Data for Progress Oct 8-16 (694 LV): Peltola 47, Sullivan 44",
+     "url": "https://www.filesforprogress.org/datasets/2026/10/dfp_alaska_oct_2026.pdf"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Rasmussen Reports",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-12",
+     "end_date": "2026-10-15",
+     "date": "2026-10-15",
+     "release_date": null,
+     "sample": "775 LV",
+     "population": "LV",
+     "cand_pct": 44,
+     "opp_name": "Sullivan",
+     "opp_pct": 42,
+     "others": null,
+     "text": "Rasmussen Reports Oct 12-15 (775 LV): Peltola 44, Sullivan 42",
+     "url": "https://www.newsweek.com/mary-peltola-is-pulling-ahead-in-the-final-stretch-against-dan-sullivan-12592675"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Public Policy Polling",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-14",
+     "end_date": "2026-10-15",
+     "date": "2026-10-15",
+     "release_date": null,
+     "sample": "578 RV",
+     "population": "RV",
+     "cand_pct": 48,
+     "opp_name": "Sullivan",
+     "opp_pct": 47,
+     "others": null,
+     "text": "Public Policy Polling Oct 14-15 (578 RV): Peltola 48, Sullivan 47",
+     "url": "https://www.newsweek.com/mary-peltola-is-pulling-ahead-in-the-final-stretch-against-dan-sullivan-12592675"
     }
    ],
    "markets": [],
@@ -6073,7 +6220,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "alaska-senate-election-winner",
@@ -6499,6 +6646,60 @@
      "others": null,
      "text": "Quantus Insights final GA poll, released Oct 19 (755 LV): Ossoff 51.8, Collins 44.9",
      "url": "https://jasonbcorley.substack.com/p/the-senator-and-the-ticket-reading"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "University of Georgia SPIA",
+     "sponsor": "Atlanta Journal-Constitution",
+     "sponsor_lean": null,
+     "start_date": "2026-10-07",
+     "end_date": "2026-10-15",
+     "date": "2026-10-15",
+     "release_date": "2026-10-21",
+     "sample": "1000 LV",
+     "population": "LV",
+     "cand_pct": 48,
+     "opp_name": "Collins",
+     "opp_pct": 40,
+     "others": "Undecided ~12%",
+     "text": "AJC/UGA Oct 7-15 (1000 LV): Ossoff 48, Collins 40",
+     "url": "https://www.ajc.com/politics/2026/10/ajc-poll-ossoff-leads-collins-in-georgias-us-senate-race/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Quantus Insights",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-15",
+     "end_date": "2026-10-17",
+     "date": "2026-10-17",
+     "release_date": "2026-10-19",
+     "sample": "755 LV",
+     "population": "LV",
+     "cand_pct": 51.8,
+     "opp_name": "Collins",
+     "opp_pct": 44.9,
+     "others": "Undecided 2.9%",
+     "text": "Quantus Insights Oct 15-17 (755 LV): Ossoff 51.8, Collins 44.9",
+     "url": "https://www.atlantanewsfirst.com/2026/10/19/new-georgia-poll-ossoff-leads-by-nearly-7-jackson-dolezal-cling-narrow-edges/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "ActiVote",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-06",
+     "end_date": "2026-10-20",
+     "date": "2026-10-20",
+     "release_date": "2026-10-20",
+     "sample": "400 LV",
+     "population": "LV",
+     "cand_pct": 54,
+     "opp_name": "Collins",
+     "opp_pct": 46,
+     "others": null,
+     "text": "ActiVote Oct 6-20 (400 LV): Ossoff 54, Collins 46",
+     "url": "https://www.activote.net/polls/2026/ga-u-s-senate/"
     }
    ],
    "markets": [],
@@ -6522,7 +6723,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "georgia-senate-election-winner",
@@ -7042,6 +7243,60 @@
      "others": null,
      "text": "YouGov Oct 6-12 (2,245 LV): Turek 47, Hinson 46",
      "url": "https://www.newsweek.com/josh-turek-ashley-hinson-iowa-polls-trump-voters-12569851"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Trafalgar Group",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-13",
+     "end_date": "2026-10-15",
+     "date": "2026-10-15",
+     "release_date": "2026-10-17",
+     "sample": "1094 LV",
+     "population": "LV",
+     "cand_pct": 44,
+     "opp_name": "Hinson",
+     "opp_pct": 46,
+     "others": "Undecided ~6%",
+     "text": "Trafalgar Group Oct 13-15 (1094 LV): Turek 44, Hinson 46",
+     "url": "https://www.thetrafalgargroup.org/news/ia-senate-gen-1017/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "co/efficient",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-15",
+     "end_date": "2026-10-19",
+     "date": "2026-10-19",
+     "release_date": null,
+     "sample": "863 LV",
+     "population": "LV",
+     "cand_pct": 45,
+     "opp_name": "Hinson",
+     "opp_pct": 48,
+     "others": "Laehn (L) 2%, undecided 6%",
+     "text": "co/efficient Oct 15-19 (863 LV): Turek 45, Hinson 48",
+     "url": "https://battlegrounds.coefficient.org/ia/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "National Public Affairs",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-12",
+     "date": "2026-10-12",
+     "release_date": "2026-10-19",
+     "sample": "678 LV",
+     "population": "LV",
+     "cand_pct": 44,
+     "opp_name": "Hinson",
+     "opp_pct": 47,
+     "others": "Laehn (L) 4%; head-to-head Hinson 48, Turek 47",
+     "text": "National Public Affairs Oct 8-12 (678 LV): Turek 44, Hinson 47",
+     "url": "https://backend.natpublicaffairs.com/media/Iowa_General_Election_Memo_101526.3.pdf"
     }
    ],
    "markets": [],
@@ -7065,7 +7320,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "iowa-senate-election-winner",
@@ -7352,6 +7607,13 @@
      "as_of": "2026-10-01",
      "previous": "Likely R",
      "url": "https://www.270towin.com/2026-senate-election/inside-elections-2026-senate-ratings"
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Sabato",
+     "rating": "Lean R",
+     "as_of": "2026-10-14",
+     "url": "https://centerforpolitics.org/crystalball/10_14_senate/"
     }
    ],
    "polls": [
@@ -7513,7 +7775,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "nebraska-senate-election-winner",
@@ -7578,6 +7840,13 @@
      "rating": "Tilt D",
      "as_of": "2026-10-15",
      "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Sabato",
+     "rating": "Likely D",
+     "as_of": "2026-10-14",
+     "url": "https://centerforpolitics.org/crystalball/10_14_senate/"
     }
    ],
    "polls": [
@@ -7825,6 +8094,24 @@
      "others": null,
      "text": "NPA Polling (R-aligned firm), released Oct 16 (600 LV): Pappas 50, Sununu 43",
      "url": "https://politicalwire.com/2026/10/16/pappas-leads-sununu-in-new-hampshire-senate-race-2/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "National Public Affairs",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-12",
+     "date": "2026-10-12",
+     "release_date": "2026-10-16",
+     "sample": "600 LV",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Sununu",
+     "opp_pct": 43,
+     "others": "Laplante (Constitution) 4%; head-to-head Pappas 50, Sununu 45",
+     "text": "National Public Affairs Oct 8-12 (600 LV): Pappas 50, Sununu 43",
+     "url": "https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_101526.2.pdf"
     }
    ],
    "markets": [],
@@ -7840,7 +8127,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "new-hampshire-senate-election-winner",
@@ -8369,6 +8656,24 @@
      "others": null,
      "text": "Elon Poll Sep 29-Oct 8 (LV, released Oct 20): Cooper 52, Whatley 39 (54-43 with undecideds pushed)",
      "url": "https://www.elon.edu/u/news/2026/10/20/final-elon-university-poll-before-election-day-cooper-has-double-digit-lead-over-whatley-in-nc-us-senate-race/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "ActiVote",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-20",
+     "date": "2026-10-20",
+     "release_date": "2026-10-20",
+     "sample": "400 LV",
+     "population": "LV",
+     "cand_pct": 56.9,
+     "opp_name": "Whatley",
+     "opp_pct": 43.1,
+     "others": null,
+     "text": "ActiVote Oct 8-20 (400 LV): Cooper 56.9, Whatley 43.1",
+     "url": "https://www.activote.net/polls/2026/nc-u-s-senate/"
     }
    ],
    "markets": [],
@@ -8392,7 +8697,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "north-carolina-senate-election-winner",
@@ -9027,6 +9332,20 @@
      "as_of": "2026-10-06",
      "previous": "Safe R",
      "url": "https://sabatoscrystalball.substack.com/p/four-rating-changes-headlined-by"
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Cook",
+     "rating": "Lean R",
+     "as_of": "2026-10-20",
+     "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/senate-south-carolina-mississippi-minnesota"
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Inside Elections",
+     "rating": "Lean R",
+     "as_of": "2026-10-15",
+     "url": "https://rollcall.com/2026/10/20/rating-changes-democrats-inside-elections/"
     }
    ],
    "polls": [
@@ -9188,7 +9507,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "south-carolina-senate-election-winner",
@@ -9246,6 +9565,13 @@
      "as_of": "2026-10-01",
      "previous": "Lean R",
      "url": "https://www.270towin.com/2026-senate-election/inside-elections-2026-senate-ratings"
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Inside Elections",
+     "rating": "Toss-up",
+     "as_of": "2026-10-15",
+     "url": "https://rollcall.com/2026/10/20/rating-changes-democrats-inside-elections/"
     }
    ],
    "polls": [
@@ -9973,7 +10299,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "texas-senate-election-winner",
@@ -10157,6 +10483,24 @@
      "text": "Napolitan/Alabama Policy Action Sep 21–25 (800 RV): Jones 37, Tuberville 50",
      "url": "https://alabamapolicy.org/2026/10/01/new-poll-shows-strong-support-for-candidates-and-overwhelming-voter-favorability-for-the-choose-act/",
      "date": "2026-09-25"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Cygnal",
+     "sponsor": "Gray Media Alabama / Alabama Daily News",
+     "sponsor_lean": null,
+     "start_date": "2026-10-16",
+     "end_date": "2026-10-17",
+     "date": "2026-10-17",
+     "release_date": "2026-10-20",
+     "sample": "500 LV",
+     "population": "LV",
+     "cand_pct": 40.0,
+     "opp_name": "Tuberville",
+     "opp_pct": 51.2,
+     "others": "Undecided 8.9",
+     "text": "Cygnal (Gray/Alabama Daily News) Oct 16-17 (500 LV): Jones 40, Tuberville 51",
+     "url": "https://www.wbrc.com/2026/10/20/tuberville-leads-jones-51-40-percent-exclusive-gray-alabama-daily-news-poll/"
     }
    ],
    "markets": [],
@@ -10172,7 +10516,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "alabama-governor-winner-2026",
@@ -10341,6 +10685,24 @@
      "text": "ASR Oct 1–3 (1,512 LV): Kreiss-Tomkins 48, Wilson 27 (first choice); final 54–46",
      "url": "https://x.com/The_Real_ASR/status/2107585990869348810",
      "date": "2026-10-03"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Data for Progress",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-16",
+     "date": "2026-10-16",
+     "release_date": "2026-10-20",
+     "sample": "694 LV",
+     "population": "LV",
+     "cand_pct": 46,
+     "opp_name": "Wilson",
+     "opp_pct": 28,
+     "others": "First choice: Bronson 12, Taylor 9, not sure 5. RCV final round: Kreiss-Tomkins 53, Wilson 47 (50-50 if exhausted R ballots transferred to Wilson)",
+     "text": "Data for Progress Oct 8-16 (694 LV): Kreiss-Tomkins 46, Wilson 28, Bronson 12, Taylor 9 (RCV final 53-47)",
+     "url": "https://www.filesforprogress.org/datasets/2026/10/dfp_alaska_oct_2026.pdf"
     }
    ],
    "markets": [],
@@ -10356,7 +10718,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "alaska-governor-election-winner",
@@ -10581,6 +10943,42 @@
      "text": "HighGround: Hobbs 50.5, Biggs 33.7.",
      "url": "https://azhighground.com/hurricane-season-for-arizona-republicans/",
      "date": "2026-10-08"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Wick",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-03",
+     "end_date": "2026-10-06",
+     "date": "2026-10-06",
+     "release_date": null,
+     "sample": "1,513 LV",
+     "population": "LV",
+     "cand_pct": 48.9,
+     "opp_name": "Biggs",
+     "opp_pct": 43.2,
+     "others": "Other 3.4, undecided 4.5",
+     "text": "Wick Oct 3-6 (1,513 LV): Hobbs 48.9, Biggs 43.2",
+     "url": "https://wick.io/research-arizona-governor-survey-october-2026"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Grayhouse",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-06",
+     "end_date": "2026-10-08",
+     "date": "2026-10-08",
+     "release_date": null,
+     "sample": "550 LV",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Biggs",
+     "opp_pct": 44,
+     "others": "Third party 2, undecided 4",
+     "text": "Grayhouse Oct 6-8 (550 LV): Hobbs 50, Biggs 44",
+     "url": "https://www.grayhouse.com/post/new-grayhouse-poll-norton-leads-for-arizona-treasurer"
     }
    ],
    "markets": [],
@@ -10596,7 +10994,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "arizona-governor-winner-2026",
@@ -12617,6 +13015,24 @@
      "others": null,
      "text": "KSTP/SurveyUSA (mid-Oct, 718 LV): Klobuchar 48, Demuth 41",
      "url": "https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-swing-in-senate-and-ag-races-klobuchar-up-slightly-on-demuth/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "SurveyUSA",
+     "sponsor": "KSTP/KAAL/WDIO",
+     "sponsor_lean": null,
+     "start_date": "2026-10-08",
+     "end_date": "2026-10-12",
+     "date": "2026-10-12",
+     "release_date": "2026-10-13",
+     "sample": "718 LV",
+     "population": "LV",
+     "cand_pct": 48,
+     "opp_name": "Demuth",
+     "opp_pct": 41,
+     "others": "Young (G) 3, undecided 8",
+     "text": "SurveyUSA (KSTP) Oct 8-12 (718 LV): Klobuchar 48, Demuth 41",
+     "url": "https://kstp.com/wp-content/uploads/2026/10/Poll-Races-1.pdf"
     }
    ],
    "markets": [],
@@ -12632,7 +13048,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "minnesota-governor-winner-2026",
@@ -12682,6 +13098,13 @@
      "source": "Inside Elections",
      "rating": "Tilt R",
      "as_of": null
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Sabato",
+     "rating": "Toss-up",
+     "as_of": "2026-09-22",
+     "url": "https://thehill.com/homenews/campaign/6104713-sabato-crystal-ball-shifts-left/"
     }
    ],
    "polls": [
@@ -12807,7 +13230,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "nevada-governor-winner-2026",
@@ -13068,6 +13491,24 @@
      "others": null,
      "text": "Beacon Research (rel. Oct 15, 820 RV): Hochul 53, Blakeman 31",
      "url": "https://politicalwire.com/2026/10/15/kathy-hochul-way-up-in-new-york-governors-race/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Beacon Research",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": null,
+     "date": "2026-10-15",
+     "release_date": "2026-10-15",
+     "sample": "820 RV",
+     "population": "RV",
+     "cand_pct": 53,
+     "opp_name": "Blakeman",
+     "opp_pct": 31,
+     "others": "MoE +/-3.5; field dates not published in sources found",
+     "text": "Beacon Research (rel. Oct 15) (820 RV): Hochul 53, Blakeman 31",
+     "url": "https://politicalwire.com/2026/10/15/kathy-hochul-way-up-in-new-york-governors-race/"
     }
    ],
    "markets": [],
@@ -13083,7 +13524,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "new-york-governor-winner-2026",
@@ -13362,6 +13803,24 @@
      "others": null,
      "text": "ActiVote Sep 27-Oct 19 (400 LV): Ramaswamy 51.4, Acton 48.6",
      "url": "https://www.activote.net/polls/2026/oh-governor/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Bowling Green State Univ./YouGov",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-09-29",
+     "end_date": "2026-10-09",
+     "date": "2026-10-09",
+     "release_date": "2026-10-16",
+     "sample": "1,000 LV",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Ramaswamy",
+     "opp_pct": 44,
+     "others": null,
+     "text": "BGSU/YouGov Sep 29-Oct 9 (1,000 LV): Acton 50, Ramaswamy 44",
+     "url": "https://www.thehansindia.com/news/international/ramaswamy-trails-acton-by-six-points-in-bgsu-ohio-poll-1133498"
     }
    ],
    "markets": [],
@@ -13377,7 +13836,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "ohio-governor-winner-2026",
@@ -13609,6 +14068,24 @@
      "text": "Quinnipiac Oct 1–5 (1,159 LV): Shapiro 59, Garrity 34",
      "url": "https://poll.qu.edu/poll-release?releaseid=3970",
      "date": "2026-10-05"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Bravo Group",
+     "sponsor": "PennLive",
+     "sponsor_lean": null,
+     "start_date": null,
+     "end_date": "2026-10-11",
+     "date": "2026-10-11",
+     "release_date": "2026-10-19",
+     "sample": "628 RV",
+     "population": "RV",
+     "cand_pct": 58,
+     "opp_name": "Garrity",
+     "opp_pct": 28,
+     "others": "14% other/undecided; MoE +/-4.5; start date not found",
+     "text": "Bravo Group (PennLive) thru Oct 11 (628 RV): Shapiro 58, Garrity 28",
+     "url": "https://politicalwire.com/2026/10/19/shapiro-leads-garrity-in-pennsylvania-governors-race/"
     }
    ],
    "markets": [],
@@ -13624,7 +14101,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "pennsylvania-governor-winner-2026",
@@ -13868,6 +14345,13 @@
      "as_of": "2026-10-13",
      "previous": "Solid R",
      "url": "https://thecookpoliticalreport.substack.com/p/four-races-for-governor-move-in-democrats"
+    },
+    {
+     "observed": "2026-10-21",
+     "source": "Inside Elections",
+     "rating": "Likely R",
+     "as_of": "2026-10-20",
+     "url": "https://rollcall.com/2026/10/20/rating-changes-democrats-inside-elections/"
     }
    ],
    "polls": [
@@ -13960,7 +14444,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-14",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "vermont-governor-winner-2026",
@@ -14138,6 +14622,24 @@
      "others": null,
      "text": "City Forward Collective/YouGov (rel. Oct 16): Crowley 46, Tiffany 42",
      "url": "https://politicalwire.com/2026/10/16/crowley-leads-tiffany-in-wisconsin-governors-race-2/"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "YouGov",
+     "sponsor": "City Forward Collective / CFC Action Fund",
+     "sponsor_lean": null,
+     "start_date": "2026-09-22",
+     "end_date": "2026-10-09",
+     "date": "2026-10-09",
+     "release_date": "2026-10-15",
+     "sample": "1,715 A",
+     "population": "A",
+     "cand_pct": 46,
+     "opp_name": "Tiffany",
+     "opp_pct": 42,
+     "others": "9% unsure, 2% won't vote; Wisconsin adults, not LV",
+     "text": "YouGov (City Forward Collective) Sep 22-Oct 9 (1,715 A): Crowley 46, Tiffany 42",
+     "url": "https://urbanmilwaukee.com/pressrelease/new-wisconsin-poll-crowley-leads-tiffany-46-to-42-in-governors-race/"
     }
    ],
    "markets": [],
@@ -14153,7 +14655,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "wisconsin-governor-winner-2026",
@@ -14832,6 +15334,24 @@
      "text": "Wedgewood MI: El-Sayed 53, Rogers 47.",
      "url": "https://www.newsweek.com/katie-zacharia-abdul-el-sayed-radical-michigan-polls-12550572",
      "date": "2026-10-09"
+    },
+    {
+     "observed": "2026-10-21",
+     "pollster": "Marist",
+     "sponsor": null,
+     "sponsor_lean": null,
+     "start_date": "2026-10-15",
+     "end_date": "2026-10-18",
+     "date": "2026-10-18",
+     "release_date": "2026-10-21",
+     "sample": "LV (subset of 1185 RV)",
+     "population": "LV",
+     "cand_pct": 50,
+     "opp_name": "Rogers",
+     "opp_pct": 48,
+     "others": "Among RV El-Sayed leads by 7",
+     "text": "Marist Oct 15-18 (LV): El-Sayed 50, Rogers 48",
+     "url": "https://maristpoll.marist.edu/polls/midterm-elections-in-michigan-october-2026/"
     }
    ],
    "markets": [],
@@ -14855,7 +15375,7 @@
    "result": {
     "status": "pending"
    },
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "market_ids": {
     "polymarket": {
      "slug": "michigan-senate-election-winner",
